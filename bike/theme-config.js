@@ -1,0 +1,1 @@
+window.CVC_THEME={"id":"bike","title":"City Bike Ride","shortTitle":"Bike Words","wordTopic":"bike","unit":{"singular":"bike bell","plural":"bike bells","shortPlural":"bells","role":"rider","rolePlural":"riders","rewardPhrase":"a bike bell","newAsset":"bell"},"palette":{"primary":"#275c9d","accent":"#ee926b","background":"#edf5ff"}};

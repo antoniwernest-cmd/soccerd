@@ -1,0 +1,449 @@
+SCUBA — EXACT ARTWORK PROMPTS AND SAVED PATHS
+
+Mode: built-in image_gen (as recorded for each asset).
+Original generated PNGs remain at their default source paths. Selected full-resolution originals are preserved below.
+Web assets are deterministic resized WebP copies; alpha is retained.
+
+scuba / hero (hero)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a94264f5-d21a-41bc-b764-05fc0b0a4bb5.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\hero-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\team-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\stadium-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\assets\covers\scuba.webp
+Exact prompt: Draw a new original cover illustration for a children's listening and CVC reading activity. Theme: SCUBA EXPLORATION. Two young divers with a friendly adult scuba instructor floating calmly over a colorful shallow reef in clear turquoise water. All three wear complete scuba equipment: correctly fitted masks, mouth regulators, air cylinders, buoyancy vests and fins, natural anatomy. Small reef fish, a friendly sea turtle and a small dive boat visible above through the surface. Clear welcoming educational exploration scene, not a technical training diagram. Premium rounded 3D animated family-film aesthetic, expressive kind faces, soft tactile materials, natural correct hands and body proportions, rich color and bright soft lighting. Landscape 3:2 composition, large clear subjects filling the usable frame; minimal empty sky, no blank copy area. Full artwork background, no transparent cutout. No words, letters, numbers, captions, logos, footballs, soccer motifs, brands or watermark.
+
+scuba / bag (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-7a282ea3-8379-43c3-97e8-bf3469fd8f2d.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\bag-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\bag-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bag" in a SCUBA EXPLORATION listening and reading activity. Subject: One sturdy teal zipped dive duffel bag with handles and a shoulder strap, blank panels, no loose objects around it. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / bin (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a41ad652-2433-4c37-832a-b7a55d2de820.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\bin-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\bin-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bin" in a SCUBA EXPLORATION listening and reading activity. Subject: One large teal shore-cleanup bin with its lid slightly open and plain blank sides, no words or loose litter. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / brim (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-24a8f070-b396-422e-a078-960d1db8a211.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\brim-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\brim-v1.webp
+Exact prompt: Draw a new original learning picture for the word "brim" in a SCUBA EXPLORATION listening and reading activity. Subject: Close-up of the broad front brim of a blue sun cap used on the dive boat, simple curved highlight indicating the projecting brim, no letters. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / cap (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2d4db1c3-bae4-44e5-ba4a-ac6164f677ea.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\cap-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\cap-v1.webp
+Exact prompt: Draw a new original learning picture for the word "cap" in a SCUBA EXPLORATION listening and reading activity. Subject: One blue sun cap with a clearly projecting brim, plain fabric and no emblem, resting on a tiny boat-deck patch. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / clam (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2f012228-a1cb-4c8a-bde4-913382bf5175.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\clam-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\clam-v1.webp
+Exact prompt: Draw a new original learning picture for the word "clam" in a SCUBA EXPLORATION listening and reading activity. Subject: One rounded two-part clam shell opened just enough to show the soft animal inside, no pearl or other animals, on a small sand patch. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / clip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-fc09ddc9-0e3a-45fd-8a6f-cc9fc7c87a8d.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\clip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\clip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "clip" in a SCUBA EXPLORATION listening and reading activity. Subject: One large silver equipment carabiner clip with a clearly visible spring snap gate, isolated and easy to recognize, no other fasteners. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / cod (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-44e31157-1f94-462a-b23d-8746a9715bb0.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\cod-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\cod-v1.webp
+Exact prompt: Draw a new original learning picture for the word "cod" in a SCUBA EXPLORATION listening and reading activity. Subject: One recognizable mottled green-brown cod fish with its small chin barbel, whole fish in a gentle swimming pose, no other animals. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / crab (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-c51f53d6-fe72-4da9-aa16-8271f6ffb20c.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\crab-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\crab-v1.webp
+Exact prompt: Draw a new original learning picture for the word "crab" in a SCUBA EXPLORATION listening and reading activity. Subject: One friendly red-orange crab with two large claws and several walking legs, whole body visible on a tiny pale seabed patch. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / cup (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-c4f869c5-1880-4a77-aaf1-c6e5a51ecfc1.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\cup-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\cup-v1.webp
+Exact prompt: Draw a new original learning picture for the word "cup" in a SCUBA EXPLORATION listening and reading activity. Subject: One small orange handleless water cup at the dive base, open rim visible, no other containers. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / dip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2ee0eafa-7c2c-4bd0-8869-6f7000acc4ec.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\dip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\dip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "dip" in a SCUBA EXPLORATION listening and reading activity. Subject: Close-up of one child hand briefly dipping its fingertips into clear shallow water at the shore, small ripples and a short down-up motion arc, no text. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / drip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-4d2f1be0-4373-4227-9e29-33379304babf.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\drip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\drip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "drip" in a SCUBA EXPLORATION listening and reading activity. Subject: One diving fin hanging toe-down with three separate water droplets dripping slowly from its tip, no other objects. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / drop (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-72a07ea6-7a83-4cdd-85f3-47c5b8dc9ad8.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\drop-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\drop-v1.webp
+Exact prompt: Draw a new original learning picture for the word "drop" in a SCUBA EXPLORATION listening and reading activity. Subject: One diver hand releasing a glove above an open empty equipment basket, glove clearly falling with short downward motion accents. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / fin (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-38540a49-d669-4f63-81fc-74df5c82ac7e.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\fin-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\fin-v1.webp
+Exact prompt: Draw a new original learning picture for the word "fin" in a SCUBA EXPLORATION listening and reading activity. Subject: One long blue-and-yellow rubber diving fin with its foot pocket and broad flexible blade clearly visible, isolated on a tiny wet deck patch. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / flag (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-f5984633-3078-448b-9eca-e540d601918a.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\flag-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\flag-v1.webp
+Exact prompt: Draw a new original learning picture for the word "flag" in a SCUBA EXPLORATION listening and reading activity. Subject: One red cloth dive flag with a white diagonal stripe on a short boat pole, full flag visible, no letters or words. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / flat (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-bf91ab03-419c-4a71-812f-8506556cbb6b.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\flat-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\flat-v1.webp
+Exact prompt: Draw a new original learning picture for the word "flat" in a SCUBA EXPLORATION listening and reading activity. Subject: One broad smooth reef stone with a clearly level flat top, shown low from the side on a tiny sand patch, no people or animals. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / grip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-6a8c4372-f0b4-4550-bb8c-d75d04b225a5.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\grip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\grip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "grip" in a SCUBA EXPLORATION listening and reading activity. Subject: Close-up of one gloved diver hand firmly wrapped around a small dive torch, fingers visibly gripping the handle tightly. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / jet (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-e9334954-a22d-490e-a9e9-d629208eec97.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\jet-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\jet-v1.webp
+Exact prompt: Draw a new original learning picture for the word "jet" in a SCUBA EXPLORATION listening and reading activity. Subject: One white-and-teal passenger jet with visible wings and engines, three-quarter view above a tiny coastal cloud, no branding. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / kit (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2c5094a3-96fb-45d6-a8df-24e44bd39055.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\kit-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\kit-v1.webp
+Exact prompt: Draw a new original learning picture for the word "kit" in a SCUBA EXPLORATION listening and reading activity. Subject: One neatly arranged complete scuba kit: mask, fins, buoyancy vest, tank and regulator together, no person, no written labels. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / map (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-1f9c8eaa-b45b-40c6-8958-df793a53d27b.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\map-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\map-v1.webp
+Exact prompt: Draw a new original learning picture for the word "map" in a SCUBA EXPLORATION listening and reading activity. Subject: One unfolded waterproof reef map showing simple reef shapes, a curved route and a compass arrow, no words or numbers. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / net (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-d115c8e6-775b-4cbc-be9e-fdff6841ff1f.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\net-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\net-v1.webp
+Exact prompt: Draw a new original learning picture for the word "net" in a SCUBA EXPLORATION listening and reading activity. Subject: One small marine-cleanup hand net with a pale mesh hoop and teal handle, empty, no animals or litter inside. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / peg (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-6aa618f0-739e-48d2-bc75-a44b9891a8b0.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\peg-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\peg-v1.webp
+Exact prompt: Draw a new original learning picture for the word "peg" in a SCUBA EXPLORATION listening and reading activity. Subject: One large wooden clothespeg clipped onto a short rinse-station drying line, with a tiny blank fabric corner held between its jaws. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / plug (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-b724aa82-6868-4b80-95f4-54b67f0a1da9.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\plug-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\plug-v1.webp
+Exact prompt: Draw a new original learning picture for the word "plug" in a SCUBA EXPLORATION listening and reading activity. Subject: One black rubber rinse-tub drain plug with a pull loop, beside a small round drain rim, no text or other equipment. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / scan (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2d352da7-e692-4329-aa26-8cfe92c6d28a.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\scan-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\scan-v1.webp
+Exact prompt: Draw a new original learning picture for the word "scan" in a SCUBA EXPLORATION listening and reading activity. Subject: One fully equipped diver looking carefully left and right across a reef, mask and dive torch directed outward with a gentle side-to-side viewing arc; no writing. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / sit (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-f060c033-0645-44e1-acf7-b958cef652e4.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\sit-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\sit-v1.webp
+Exact prompt: Draw a new original learning picture for the word "sit" in a SCUBA EXPLORATION listening and reading activity. Subject: One cheerful child in a lifejacket sitting upright on a small boat bench, feet down, calm pose, no loose gear or writing. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / skin (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-26046622-4c8a-4472-934b-3d027ca445a8.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\skin-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\skin-v1.webp
+Exact prompt: Draw a new original learning picture for the word "skin" in a SCUBA EXPLORATION listening and reading activity. Subject: Close-up of one bare hand and forearm showing smooth natural skin, a small blue water edge in the background, neutral and non-graphic, no cuts, injuries or writing. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / slip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-c3fbe069-862e-4e3d-a4b1-03668f408e74.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\slip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\slip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "slip" in a SCUBA EXPLORATION listening and reading activity. Subject: Close view of a diver boot sliding a short distance on a wet boat-deck board, a small straight motion accent and water sheen, no falling body or injury. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / slug (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-bec2f8ed-fa43-4130-9db7-85c8ecab06c7.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\slug-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\slug-v1.webp
+Exact prompt: Draw a new original learning picture for the word "slug" in a SCUBA EXPLORATION listening and reading activity. Subject: One colourful soft sea slug with small sensory tentacles and no hard shell, whole body visible on a tiny seabed stone, no other animals. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / spin (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2b3fe7f5-e273-40a7-86b4-2ccd8605734d.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\spin-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\spin-v1.webp
+Exact prompt: Draw a new original learning picture for the word "spin" in a SCUBA EXPLORATION listening and reading activity. Subject: One fully equipped diver turning round in place in clear water, a clear curved circular motion arrow around the body, no writing. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / spot (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-944e2a68-c316-430c-9d85-9bd53fe0fc77.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\spot-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\spot-v1.webp
+Exact prompt: Draw a new original learning picture for the word "spot" in a SCUBA EXPLORATION listening and reading activity. Subject: A close view of a small yellow reef fish with exactly one large round blue spot on its side, the round mark is dominant and clear. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / step (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-549f58d9-caa5-4f09-9591-17537eb7da1e.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\step-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\step-v1.webp
+Exact prompt: Draw a new original learning picture for the word "step" in a SCUBA EXPLORATION listening and reading activity. Subject: One single sturdy non-slip step between a dock edge and a dive boat, the step dominates the compact composition, no people. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / stop (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ea35aae9-65d8-4da7-b9bc-faafa6c974a7.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\stop-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\stop-v1.webp
+Exact prompt: Draw a new original learning picture for the word "stop" in a SCUBA EXPLORATION listening and reading activity. Subject: One fully equipped upright diver holding a palm outward in a clear stop gesture and remaining still, complete mask, regulator, tank and fins. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / sub (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-3c15db07-ba4d-4e12-bd5b-062eb6dfbd17.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\sub-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\sub-v1.webp
+Exact prompt: Draw a new original learning picture for the word "sub" in a SCUBA EXPLORATION listening and reading activity. Subject: One friendly yellow mini submarine with round windows, a small propeller and a few bubbles; no people or writing. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / sun (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-8c292a8c-6ca2-4b4c-b71d-b754b1f66cf7.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\sun-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\sun-v1.webp
+Exact prompt: Draw a new original learning picture for the word "sun" in a SCUBA EXPLORATION listening and reading activity. Subject: One cheerful golden sun above a tiny curved strip of sparkling blue sea, large clear sun disk and rays, no written symbols. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / swim (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-8a5f9646-3d04-4ee9-a6eb-b17d3d5c7a22.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\swim-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\swim-v1.webp
+Exact prompt: Draw a new original learning picture for the word "swim" in a SCUBA EXPLORATION listening and reading activity. Subject: One cheerful scuba diver moving horizontally through clear water with a clear fin stroke, complete mask, regulator, tank and fins, an adult buddy small in the distance. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / tag (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-dd660856-b71d-48b0-9a46-96ba81d09ff7.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\tag-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\tag-v1.webp
+Exact prompt: Draw a new original learning picture for the word "tag" in a SCUBA EXPLORATION listening and reading activity. Subject: One blank orange equipment tag with a punched hole and short cord, attached to a tiny corner of dark gear fabric; no lettering. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / trap (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-be5cee3c-7673-47e5-ba70-2e873ecd915f.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\trap-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\trap-v1.webp
+Exact prompt: Draw a new original learning picture for the word "trap" in a SCUBA EXPLORATION listening and reading activity. Subject: One empty wire fish-or-crab trap with a clear closing door, safely sitting on a small dry dock patch after retrieval; no animals inside or nearby. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / tub (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-3e531502-737c-48d0-845d-745968db28a4.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\tub-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\tub-v1.webp
+Exact prompt: Draw a new original learning picture for the word "tub" in a SCUBA EXPLORATION listening and reading activity. Subject: One round blue plastic dive-gear rinse tub partly filled with clear water, entire rim and sides visible, no loose gear. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / van (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ba0dc086-d3b3-42e1-ab91-ed08d40bc120.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\van-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\van-v1.webp
+Exact prompt: Draw a new original learning picture for the word "van" in a SCUBA EXPLORATION listening and reading activity. Subject: One friendly plain teal dive-team van with four wheels, side door and roof rack, parked on a tiny coastal ground patch, no writing or logo. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / wet (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-02b6353e-61db-4126-a79a-50139cd2ce68.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\wet-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\wet-v1.webp
+Exact prompt: Draw a new original learning picture for the word "wet" in a SCUBA EXPLORATION listening and reading activity. Subject: One pair of dive gloves visibly soaked with large clear water beads and dripping into a small puddle; no person or other gear. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / zip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-4ce4ce48-9c4e-4e1c-a5e1-4e214e181127.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\zip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\pictures\zip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "zip" in a SCUBA EXPLORATION listening and reading activity. Subject: A close-up of a large yellow gear-bag zipper, clear interlocking teeth and pull tab on a small teal fabric panel, no whole bag. Premium rounded 3D animated family-film illustration, kind natural expressions, natural correct hands/anatomy, vivid turquoise and ocean-blue accents, soft tactile materials and bright soft lighting. Any underwater diver wears complete appropriate scuba gear. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a small deck, shore or seabed patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+scuba / ball-box (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-6f6ec386-f324-4176-8822-abf36544b86b.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\ball-box-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\ball-box-v1.webp
+Exact prompt: Draw an open sturdy cardboard box holding a few turquoise scuba diving masks at its top, ocean-blue reinforced corners. Three-quarter view with a large broad unobstructed tan FRONT SIDE facing the viewer, completely blank so the activity can overlay a quantity. One compact box only, all contents inside the rim, no loose items around it, entire object within frame with margin. Premium rounded 3D animated family-film classroom style, tactile materials, bright soft studio light, clear recognizable silhouette. Real transparent alpha background, no floor, words, letters, numbers, labels, branding, footballs, logos or watermark.
+
+scuba / rain (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-60190677-f591-432d-b4b9-bab3a068e863.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\rain-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\rain-v1.webp
+Exact prompt: Draw a new original illustrated setting for the scuba children's outdoor-adventure reading activity. Subject: The coastal dive base during gentle rain, diverse children and an adult instructor safely preparing gear under a broad shelter on shore, visible raindrops, wet dock boards and a moored dive boat in the background, calm friendly mood, no lightning, no written signs. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+scuba / scene1 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-298096b2-0941-4897-97bd-42209c82e51d.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\scene1-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\scene1-v1.webp
+Exact prompt: Draw a new original illustrated setting for the scuba children's outdoor-adventure reading activity. Subject: A friendly dive boat at a calm coastal dock, clean equipment preparation space, a sunny cabin and clear blue sea, diverse older children with an adult dive instructor preparing gear on deck; no lettering or logos. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+scuba / scene2 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-1149c19e-38ef-4b2d-b485-f437f310e630.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\scene2-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\scene2-v1.webp
+Exact prompt: Draw a new original illustrated setting for the scuba children's outdoor-adventure reading activity. Subject: A colourful clear-water reef with gently rolling sand, smooth rocks, sea plants and a few distinct marine animals, an adult guide with fully equipped young divers observing from a respectful distance without touching coral; no text. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+scuba / scene3 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-fa25c1c7-1dac-46fd-b627-f1d18b3e90ad.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\scene3-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\scene3-v1.webp
+Exact prompt: Draw a new original illustrated setting for the scuba children's outdoor-adventure reading activity. Subject: A welcoming coastal dive base with a shaded rinse station, neat gear storage, a small nearby team van and a distant passenger jet above the coast, children and an adult instructor preparing for an outing on dry land; blank signs and no lettering. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+scuba / unit (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-4776d096-c8bc-4062-88d5-af4898a2cf8f.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\scuba\unit-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\ball-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One children's scuba diving mask, bright turquoise rim, two clear glass lenses with a molded nose pocket and a soft black adjustable strap. Not swimming goggles. Single mask only, no snorkel, fins, tank, people or extra equipment. Clear compact three-quarter view for counting. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / adventure-truck (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-e7b34f68-89ce-49a9-a6e6-f1d3bcb5c52e.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\adventure-truck-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\adventure-truck-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\adventure-truck-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\adventure-truck-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\adventure-truck-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One friendly outdoor-equipment delivery truck, emerald-teal cab at LEFT with orange trim, roomy empty open cargo bed extending RIGHT, blank light side panel, big black wheels, visible headlights, three-quarter side/front view. No cargo boxes, people, loose objects, football emblems, lettering, numbers, brands or face. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / headphones (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2259254d-1ac8-4aec-b77b-7a4eb44d2da5.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\headphones-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\headphones-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\headphones-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\headphones-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\headphones-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful pair of over-ear headphones, teal headband, orange ear cushions and cream highlights. Plain unbranded surfaces, no ball emblems or logos. Tilted three-quarter view, compact unmistakable listening icon. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / math-player-1 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-3eca9a55-eb56-4841-9cc2-f6a1c4dd4303.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\math-player-1-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\math-player-1-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\math-player-1-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\math-player-1-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\math-player-1-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful Black girl, about eight years old, curly hair in two puffs, teal outdoor shirt, tan knee-length shorts and sturdy orange walking shoes. Full body standing upright facing forward, empty hands at sides, feet visible. No items, balls, equipment, badges, numbers or emblems; the counting objects are added separately by an app. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / math-player-2 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-d426ffd5-6a33-46ee-a3b1-0a5095f421c7.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\math-player-2-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\math-player-2-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\math-player-2-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\math-player-2-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\math-player-2-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful East Asian boy, about eight years old, short dark hair, orange outdoor shirt, navy knee-length shorts and teal walking shoes. Full body standing upright facing forward, empty hands at sides, feet visible. No items, balls, equipment, badges, numbers or emblems; the counting objects are added separately by an app. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / math-player-3 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ea5b4e89-3940-4b28-8387-70bda6773ea6.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\math-player-3-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\math-player-3-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\math-player-3-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\math-player-3-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\math-player-3-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful light-brown-skinned girl, about eight years old, dark ponytail, lilac outdoor shirt, forest-green knee-length shorts and tan walking shoes. Full body standing upright facing forward, empty hands at sides, feet visible. No items, balls, equipment, badges, numbers or emblems; the counting objects are added separately by an app. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / trophy (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-f0f1164b-16af-4099-b70c-33fb003bd4ad.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\trophy-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\trophy-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\trophy-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\trophy-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\trophy-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One friendly golden five-point star reward badge with a small turquoise compass circle at its center. Rounded tactile 3D style, warm gold shine, clear star silhouette. No letters, numbers, trophy cup, sports equipment or logos. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.

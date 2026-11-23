@@ -1,0 +1,442 @@
+NATURE CONSERVATION AREA VISIT — EXACT ARTWORK PROMPTS AND SAVED PATHS
+
+Mode: built-in image_gen (as recorded for each asset).
+Original generated PNGs remain at their default source paths. Selected full-resolution originals are preserved below.
+Web assets are deterministic resized WebP copies; alpha is retained.
+
+nature / hero (hero)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-416a1f03-6f38-4075-a0db-2abeca83ceea.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\hero-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\team-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\stadium-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\assets\covers\nature.webp
+Exact prompt: Draw a new original cover illustration for a children's listening and CVC reading activity. Theme: NATURE CONSERVATION AREA VISIT. Four diverse children and an adult park ranger on a wooden boardwalk beside a pond and forest. Children carry a map and small observation kit; one points toward a distant fox with cub, another watches a duck. A seedling, leaves and a cleanup bag near the ranger, protected habitat kept intact. Inviting close foreground group, pond and woodland clearly recognizable. Premium rounded 3D animated family-film aesthetic, expressive kind faces, soft tactile materials, natural correct hands and body proportions, rich color and bright soft lighting. Landscape 3:2 composition, large clear subjects filling the usable frame; minimal empty sky, no blank copy area. Full artwork background, no transparent cutout. No words, letters, numbers, captions, logos, footballs, soccer motifs, brands or watermark.
+
+nature / bag (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-1118cef1-c159-4792-8ac0-e5d7e9793bea.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\bag-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\bag-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bag" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One open green reusable cleanup bag with soft flexible sides and two handles, empty and isolated on a tiny visitor-trail patch, no tools or rubbish inside. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / bat (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-1d5ef2e1-9453-4172-ba44-8f5bd9321470.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\bat-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\bat-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bat" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One small friendly brown flying mammal bat with two clearly spread leathery wings, hanging from a short tree branch, never a sports bat. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / bin (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-1f928da6-8160-4552-a7c3-957bef629a42.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\bin-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\bin-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bin" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One sturdy green lidded conservation-area rubbish bin, clear lid and opening, small recycle symbol allowed, forest path edge and no writing. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / brim (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-8344fb9b-4120-49e1-bcf4-a5c254174fcd.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\brim-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\brim-v1.webp
+Exact prompt: Draw a new original learning picture for the word "brim" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: Close view of a khaki sun hat with its projecting front brim clearly highlighted by a simple curved shape, woodland visitor-centre setting, no writing. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / bud (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-4c36a417-66b9-4d1e-9e3a-2a831c60423f.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\bud-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\bud-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bud" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: Close view of one tightly closed green-and-pink flower bud on a short stem, no open flowers and no seed pods. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / bug (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-5ac2471b-13d0-4687-9a0a-67c4ca08e0f6.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\bug-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\bug-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bug" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One friendly red ladybird insect with six clear small legs and two antennae, large enough to see its shape, on a plain leaf without other insects. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / clap (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-97022d78-d2a8-4dfd-b4b6-980c50c6942e.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\clap-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\clap-v1.webp
+Exact prompt: Draw a new original learning picture for the word "clap" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: Close view of a child visitor bringing palms together in applause after a ranger talk inside the visitor centre, friendly adult ranger in soft background, no wildlife beside them. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / clip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-dc8c6bd2-beb4-454f-bb30-dfbe4e7887d2.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\clip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\clip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "clip" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One small silver metal pinch clip holding the top of a reusable field bag, clear clamp shape, no words or extra equipment. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / cub (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-e785b342-18ae-4592-91b4-33183041d169.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\cub-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\cub-v1.webp
+Exact prompt: Draw a new original learning picture for the word "cub" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One very young red fox cub with a small fluffy body, large gentle eyes and tiny paws, sitting on a woodland patch, no adult fox. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / dam (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-dcde8054-1f02-49da-a064-493b62be8429.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\dam-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\dam-v1.webp
+Exact prompt: Draw a new original learning picture for the word "dam" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One clear beaver dam made from interwoven sticks across a small stream, held-back water on one side and a gentle trickle below, no people or animals. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / den (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-e38cbf0e-0f08-4bd3-88ee-c6caecf4e1de.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\den-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\den-v1.webp
+Exact prompt: Draw a new original learning picture for the word "den" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One empty fox den entrance under tree roots in a small woodland bank, dark rounded opening and earthy tunnel edge, no fox or cub. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / drip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-92a1cb6b-dadf-45d0-9b09-344be44e8f41.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\drip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\drip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "drip" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: Close view of a leaf tip with three clear water drops falling separately below it into a tiny puddle, no people. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / drop (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-1e292d64-4b3d-4076-97cd-65ff7c7de5f4.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\drop-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\drop-v1.webp
+Exact prompt: Draw a new original learning picture for the word "drop" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One empty snack wrapper falling from an open hand into a reusable cleanup bag, simple downward motion arrow, no litter left on the ground. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / fin (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-4a34a245-3cb8-487b-b957-1167af5cf7bf.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\fin-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\fin-v1.webp
+Exact prompt: Draw a new original learning picture for the word "fin" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: Close view of one small freshwater fish with its side fin clearly extended and gently highlighted by a simple shape, no text or labels. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / flat (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-54519760-e764-4d87-9811-29dbaeb61bf9.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\flat-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\flat-v1.webp
+Exact prompt: Draw a new original learning picture for the word "flat" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One broad smooth flat-topped grey stone beside a reserve pond, low side view clearly shows its level top, no people or writing. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / fox (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a6fde7c4-5773-478e-9c5c-1288e01721e4.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\fox-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\fox-v1.webp
+Exact prompt: Draw a new original learning picture for the word "fox" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One adult red fox with a clearly white-tipped bushy tail, standing calmly on a small forest-floor patch, no cub or other animal. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / frog (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-c06003b3-6879-4752-87ed-917fa050107a.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\frog-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\frog-v1.webp
+Exact prompt: Draw a new original learning picture for the word "frog" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One green pond frog with broad back legs and clear webbed feet sitting on a small damp stone, no other animals. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / grass (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-bced0757-f6a9-4686-bfdd-0d6085d4e76b.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\grass-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\grass-v1.webp
+Exact prompt: Draw a new original learning picture for the word "grass" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One compact tufted carpet patch of many upright green grass blades, no flowers or separate potted plant. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / grub (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2cb8de69-2ea7-411d-8cb5-c449ea01100d.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\grub-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\grub-v1.webp
+Exact prompt: Draw a new original learning picture for the word "grub" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One curled cream C-shaped beetle grub with a brown head and six tiny front legs, isolated on dark soil, clearly different from a legless slug. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / log (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-33575963-a49a-4f71-ae5d-263ff6c21602.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\log-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\log-v1.webp
+Exact prompt: Draw a new original learning picture for the word "log" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One large fallen tree log with bark and a visible circular cut end, lying on a small woodland-floor patch, no animals or loose branches. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / map (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-32b38d15-72f5-4929-9819-e9d8e5e1b637.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\map-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\map-v1.webp
+Exact prompt: Draw a new original learning picture for the word "map" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One unfolded paper nature-reserve trail map with winding paths, a pond shape and tree symbols, no words, letters or numbers. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / mud (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-7ec85fda-8850-4ac6-81a1-58acdc5afa79.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\mud-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\mud-v1.webp
+Exact prompt: Draw a new original learning picture for the word "mud" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One shallow brown muddy puddle beside a woodland trail, glossy wet dirt with no footprints or animals, a tiny fern at the edge. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / net (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-0bf06e56-9088-473b-8e5f-edd16401224c.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\net-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\net-v1.webp
+Exact prompt: Draw a new original learning picture for the word "net" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One empty pond-study dip net with a circular hoop, fine mesh and wooden handle, resting at a ranger observation station, no captured wildlife. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / nut (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-9544b2cb-b060-4d72-b5cf-54088c0e6bcb.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\nut-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\nut-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\ball-v1.webp
+Exact prompt: Draw a new original learning picture for the word "nut" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One large brown acorn nut with its textured cap, isolated on a small oak-leaf patch, no other seeds or nuts. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / plant (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-40b5e168-0afd-45c8-a3e4-58da2e1383ba.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\plant-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\plant-v1.webp
+Exact prompt: Draw a new original learning picture for the word "plant" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One complete young broad-leaf seedling with roots visible in a small soil cross-section and several leaves above, clearly a whole plant. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / pod (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a8840edd-198d-4a41-b6d9-b652bb61a23d.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\pod-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\pod-v1.webp
+Exact prompt: Draw a new original learning picture for the word "pod" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One dry split seed pod with several seeds visible inside, attached to a short dried stalk, no bag, flowers or other plant parts. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / print (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-d1ce0241-70ea-454d-b13d-2da4ab79cb8c.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\print-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\print-v1.webp
+Exact prompt: Draw a new original learning picture for the word "print" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One clear green leaf-stamp print on a small sheet of white craft paper, original leaf beside its impression at the visitor-centre craft table, no letters or pawprints. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / sap (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a6a1ab2a-c444-4bcf-9654-c7f7776e309b.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\sap-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\sap-v1.webp
+Exact prompt: Draw a new original learning picture for the word "sap" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: Close view of amber tree sap forming a shiny thick drop on tree bark, a small bark patch only, no collecting container or people. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / skip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-4a741c7a-d41b-49ab-8e13-d6f96fff387d.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\skip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\skip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "skip" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One cheerful child taking a light step-and-hop skip on a wide designated open-meadow path, adult guide in the distance, no fragile habitat or boardwalk edge. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / slug (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ab789ee2-e2aa-4bb5-8467-81a248458b2a.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\slug-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\slug-v1.webp
+Exact prompt: Draw a new original learning picture for the word "slug" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One smooth brown garden slug with two visible feelers, no shell and no legs, on a small moist forest-floor patch. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / sniff (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-01c8237b-ddbb-4b6a-a424-f459b55e70a4.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\sniff-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\sniff-v1.webp
+Exact prompt: Draw a new original learning picture for the word "sniff" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One friendly dog on a clearly visible lead lowering its nose to sniff grass beside a designated reserve path, no loose dog or wildlife interaction. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / spot (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-98a37f91-88fa-4a32-bc6a-26465469171f.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\spot-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\spot-v1.webp
+Exact prompt: Draw a new original learning picture for the word "spot" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: Close view of one green leaf with a single bold round brown spot, the round mark is dominant, no extra spots or labels. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / stem (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-23c611e2-3b69-4f43-832f-caebaf6077b7.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\stem-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\stem-v1.webp
+Exact prompt: Draw a new original learning picture for the word "stem" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: Close view of one green plant stalk between soil and two leaves, the upright stem clearly highlighted by a simple curved shape, not a whole potted plant. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / step (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-4977ba7c-9903-4071-8f29-d8201a4aebb4.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\step-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\step-v1.webp
+Exact prompt: Draw a new original learning picture for the word "step" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One broad wooden stair step at a visitor-centre doorway, strong single raised level and woodland edge, no writing. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / sun (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-56356023-2092-44c0-ae0b-2e7c56885b43.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\sun-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\sun-v1.webp
+Exact prompt: Draw a new original learning picture for the word "sun" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One bright golden sun with rounded clear rays above a small silhouette of woodland trees, no text or face. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / swim (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-d722417b-253c-4d95-841e-be8c0c5eae7f.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\swim-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\swim-v1.webp
+Exact prompt: Draw a new original learning picture for the word "swim" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One duck actively swimming across a small patch of pond water with a clear wake behind it, no other animals or people. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / tag (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-cb021c36-f469-4a8c-a71c-41e844b38e97.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\tag-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\tag-v1.webp
+Exact prompt: Draw a new original learning picture for the word "tag" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One plain cream tree-study label tag on a short loop of string tied around a narrow twig, entirely blank with no writing. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / track (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ca730839-29f9-4918-9ff1-ca6ca9b11e34.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\track-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\track-v1.webp
+Exact prompt: Draw a new original learning picture for the word "track" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: A line of several small animal pawprints continuing along a woodland mud patch, clear direction of travel, no animal or craft paper. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / twig (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a9697c18-1f81-4bc0-9032-40283dbb9aac.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\twig-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\twig-v1.webp
+Exact prompt: Draw a new original learning picture for the word "twig" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One short thin forked woody twig isolated on a small woodland-floor patch, no leaves hiding its outline. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / web (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a3366cdd-b261-45e4-a1da-58aeb7ce0c78.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\web-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\pictures\web-v1.webp
+Exact prompt: Draw a new original learning picture for the word "web" in a NATURE CONSERVATION AREA VISIT listening and reading activity. Subject: One delicate circular spider web stretched between two short forest twigs, tiny spider at the edge, the web is dominant and clearly outlined. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, rich leaf-green and woodland colors, soft tactile materials and bright soft lighting. Animals have recognizable natural features. People stay on visitor paths; a visiting dog is leashed. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; only a compact woodland, water or visitor-center patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+nature / ball-box (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-10971170-c3df-4a06-b176-8e7dfac97565.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\ball-box-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\ball-box-v1.webp
+Exact prompt: Draw an open sturdy cardboard box holding a few brown acorns with caps at its top, leaf-green reinforced corners. Three-quarter view with a large broad unobstructed tan FRONT SIDE facing the viewer, completely blank so the activity can overlay a quantity. One compact box only, all contents inside the rim, no loose items around it, entire object within frame with margin. Premium rounded 3D animated family-film classroom style, tactile materials, bright soft studio light, clear recognizable silhouette. Real transparent alpha background, no floor, words, letters, numbers, labels, branding, footballs, logos or watermark.
+
+nature / rain (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-479c3dae-34d0-4050-a46d-c6af2dffa90a.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\rain-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\rain-v1.webp
+Exact prompt: Draw a new original illustrated setting for the nature children's outdoor-adventure reading activity. Subject: The conservation-area visitor trail during a gentle rainy day, an adult ranger and diverse children in waterproof jackets and boots stay on the designated path, clear rain drops, green leaves, puddles and a visitor-centre porch, wildlife left undisturbed, no words. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+nature / scene1 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a7be828a-34e1-4e6e-8e27-02fee0f6c764.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\scene1-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\scene1-v1.webp
+Exact prompt: Draw a new original illustrated setting for the nature children's outdoor-adventure reading activity. Subject: A welcoming conservation-area visitor trail through mixed woodland, an adult ranger with three diverse child visitors staying on the designated path, a simple map stand, rubbish bin and fallen log beside the path, open sunny sky, no wildlife feeding or written labels. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+nature / scene2 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-30069dda-d02b-4529-b73c-f7c77cb80230.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\scene2-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\scene2-v1.webp
+Exact prompt: Draw a new original illustrated setting for the nature children's outdoor-adventure reading activity. Subject: A peaceful conservation pond beside a wooden observation boardwalk, an adult ranger and diverse children observing from the boardwalk, reeds, a small beaver dam, empty pond-study nets at a station and a duck on the water, no captured animals or text. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+nature / scene3 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-25001da2-8377-4e3c-95f0-55ecb8cbfc81.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\nature\scene3-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\scene3-v1.webp
+Exact prompt: Draw a new original illustrated setting for the nature children's outdoor-adventure reading activity. Subject: A rich woodland conservation habitat with oak trees, a den bank, wildflower buds, seed pods and a fallen branch, a fox family and small bat visible at a respectful distance, diverse child visitors and adult ranger remain on the designated path, no handling or feeding wildlife, no words. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+common / adventure-truck (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-e7b34f68-89ce-49a9-a6e6-f1d3bcb5c52e.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\adventure-truck-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\adventure-truck-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\adventure-truck-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\adventure-truck-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\adventure-truck-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One friendly outdoor-equipment delivery truck, emerald-teal cab at LEFT with orange trim, roomy empty open cargo bed extending RIGHT, blank light side panel, big black wheels, visible headlights, three-quarter side/front view. No cargo boxes, people, loose objects, football emblems, lettering, numbers, brands or face. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / headphones (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2259254d-1ac8-4aec-b77b-7a4eb44d2da5.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\headphones-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\headphones-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\headphones-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\headphones-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\headphones-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful pair of over-ear headphones, teal headband, orange ear cushions and cream highlights. Plain unbranded surfaces, no ball emblems or logos. Tilted three-quarter view, compact unmistakable listening icon. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / math-player-1 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-3eca9a55-eb56-4841-9cc2-f6a1c4dd4303.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\math-player-1-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\math-player-1-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\math-player-1-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\math-player-1-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\math-player-1-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful Black girl, about eight years old, curly hair in two puffs, teal outdoor shirt, tan knee-length shorts and sturdy orange walking shoes. Full body standing upright facing forward, empty hands at sides, feet visible. No items, balls, equipment, badges, numbers or emblems; the counting objects are added separately by an app. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / math-player-2 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-d426ffd5-6a33-46ee-a3b1-0a5095f421c7.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\math-player-2-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\math-player-2-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\math-player-2-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\math-player-2-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\math-player-2-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful East Asian boy, about eight years old, short dark hair, orange outdoor shirt, navy knee-length shorts and teal walking shoes. Full body standing upright facing forward, empty hands at sides, feet visible. No items, balls, equipment, badges, numbers or emblems; the counting objects are added separately by an app. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / math-player-3 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ea5b4e89-3940-4b28-8387-70bda6773ea6.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\math-player-3-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\math-player-3-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\math-player-3-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\math-player-3-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\math-player-3-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful light-brown-skinned girl, about eight years old, dark ponytail, lilac outdoor shirt, forest-green knee-length shorts and tan walking shoes. Full body standing upright facing forward, empty hands at sides, feet visible. No items, balls, equipment, badges, numbers or emblems; the counting objects are added separately by an app. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / trophy (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-f0f1164b-16af-4099-b70c-33fb003bd4ad.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\trophy-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\trophy-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\trophy-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\trophy-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\trophy-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One friendly golden five-point star reward badge with a small turquoise compass circle at its center. Rounded tactile 3D style, warm gold shine, clear star silhouette. No letters, numbers, trophy cup, sports equipment or logos. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.

@@ -1,0 +1,578 @@
+{
+  "id": "bike",
+  "title": "City Bike Ride",
+  "shortTitle": "Bike Words",
+  "wordTopic": "bike",
+  "setNames": [
+    "Ride start",
+    "Park stop"
+  ],
+  "unit": {
+    "singular": "bike bell",
+    "plural": "bike bells",
+    "shortPlural": "bells",
+    "role": "rider",
+    "rolePlural": "riders",
+    "rewardPhrase": "a bike bell",
+    "newAsset": "bell"
+  },
+  "palette": {
+    "primary": "#275c9d",
+    "accent": "#ee926b",
+    "background": "#edf5ff"
+  },
+  "core": [
+    {
+      "id": "set1",
+      "name": "Ride start",
+      "words": [
+        {
+          "id": "bus",
+          "clue": "The large city vehicle has over twenty seats: a ___.",
+          "reason": "A large public passenger vehicle distinguishes bus from delivery van and taxi.",
+          "pictureSubject": "One long blue city bus with two rows of windows and many seats visible, parked beside a protected cycle lane; no lettering or passengers in front."
+        },
+        {
+          "id": "van",
+          "clue": "Sliding doors open on the delivery ___.",
+          "reason": "Delivery use and sliding side door identify the van.",
+          "pictureSubject": "One compact white delivery van with its sliding side cargo door open, parked safely beside a city loading bay, no brand or lettering."
+        },
+        {
+          "id": "cab",
+          "clue": "The taxi driver drives a yellow ___.",
+          "reason": "Taxi is the specific synonym for cab.",
+          "pictureSubject": "One bright yellow city taxi cab with a small plain roof light, parked at the curb beyond a protected cycle path, no writing."
+        },
+        {
+          "id": "map",
+          "clue": "The paper drawing shows our bike route: a ___.",
+          "reason": "A route drawn on paper names the map, not a bag or repair kit.",
+          "pictureSubject": "One unfolded paper city cycling map with a bold dotted route, simple streets and tiny landmarks, no words, letters or numbers."
+        },
+        {
+          "id": "bag",
+          "clue": "The zipped sack on the bike rack is a ___.",
+          "reason": "The zipped container is distinct from the tools of the kit inside it.",
+          "pictureSubject": "One blue zipped bicycle pannier bag attached to a short isolated rear rack, bag is dominant and closed, no loose equipment."
+        },
+        {
+          "id": "cap",
+          "clue": "The cloth hat with a front brim is a ___.",
+          "reason": "Cloth brimmed headwear identifies cap.",
+          "pictureSubject": "One red cloth sun cap with a clearly curved brim, resting beside a parked bicycle at a rest stop; no person wears it while riding."
+        },
+        {
+          "id": "leg",
+          "clue": "The body part from hip to foot is a ___.",
+          "reason": "The only named body part in this bank.",
+          "pictureSubject": "Close view of one trousered leg and shoe beside a bicycle pedal, a small curved visual highlight follows the whole leg; no bare body or labels."
+        },
+        {
+          "id": "peg",
+          "clue": "The short axle footrest is a bike ___.",
+          "reason": "Cylindrical axle footrest distinguishes peg from the hexagonal nut.",
+          "pictureSubject": "Close view of one cylindrical knurled bicycle axle footpeg attached to a small wheel axle section, no rider or stunt."
+        },
+        {
+          "id": "nut",
+          "clue": "The six-sided metal fastener is a ___.",
+          "reason": "Hexagonal threaded hardware distinguishes nut from the long footpeg.",
+          "pictureSubject": "One large silver hexagonal threaded bicycle axle nut, clearly six sides and round threaded hole, isolated on a tiny workshop mat."
+        },
+        {
+          "id": "kit",
+          "clue": "The set of bike repair tools is a ___.",
+          "reason": "A tool set rather than the container holding it.",
+          "pictureSubject": "One compact bicycle repair kit arranged neatly: mini pump, patch pieces, tire levers and small wrench, no bag, no text."
+        }
+      ]
+    },
+    {
+      "id": "set2",
+      "name": "Park stop",
+      "words": [
+        {
+          "id": "bin",
+          "clue": "Park litter goes in the rubbish ___.",
+          "reason": "The rigid park waste container is the bin.",
+          "pictureSubject": "One green park rubbish bin with an open flap beside a cycle path, a small recycle symbol is allowed but no words."
+        },
+        {
+          "id": "tap",
+          "clue": "Turn the handle of the water ___.",
+          "reason": "A handled drinking-water outlet identifies the tap.",
+          "pictureSubject": "One silver outdoor drinking-water tap with a clear turning handle and short spout, mounted at a bicycle rest station, no running water."
+        },
+        {
+          "id": "dog",
+          "clue": "The leashed pet that barks is a ___.",
+          "reason": "Barking identifies the dog, distinct from the web-spinning creature.",
+          "pictureSubject": "One friendly brown-and-white dog on a visible lead held outside the crop, standing calmly beside a parked bicycle, no other animals."
+        },
+        {
+          "id": "sun",
+          "clue": "The bright round star lights the day: the ___.",
+          "reason": "The daytime star, not a coloured lamp or object.",
+          "pictureSubject": "One bright golden sun with simple rounded rays above a small strip of city park trees, no face needed and no lettering."
+        },
+        {
+          "id": "red",
+          "clue": "The top stop light is ___.",
+          "reason": "The only colour word in this bank.",
+          "pictureSubject": "Close view of a traffic signal with its top red lamp glowing brightly, lower amber and green lamps dark, a protected bike lane edge below; no writing."
+        },
+        {
+          "id": "zip",
+          "clue": "Two rows of teeth close the bag with a ___.",
+          "reason": "The toothed fastener identifies zip.",
+          "pictureSubject": "Close view of one large blue bag zipper with two interlocking tooth rows and a clear pull tab, no other bag details or props."
+        },
+        {
+          "id": "cup",
+          "clue": "The handleless drinking vessel is a ___.",
+          "reason": "A small open drinking container, with no competing vessel in this bank.",
+          "pictureSubject": "One open orange handleless drinking cup resting on a park picnic table corner at a bike stop, no other food or vessels."
+        },
+        {
+          "id": "mat",
+          "clue": "Wipe your shoes on the woven ___.",
+          "reason": "The floor covering used for shoes identifies the mat.",
+          "pictureSubject": "One rectangular woven doormat beside a simple bicycle rack at a home doorway, mat fills most of the frame."
+        },
+        {
+          "id": "jam",
+          "clue": "The queue of stuck cars is a traffic ___.",
+          "reason": "Traffic makes jam a road queue rather than a food.",
+          "pictureSubject": "A short queue of stationary cars close together on a city road, red brake lamps visible, separated from an empty protected cycle lane; no cyclists in traffic."
+        },
+        {
+          "id": "web",
+          "clue": "The spider spins a silk ___.",
+          "reason": "Silk woven by a spider identifies the web.",
+          "pictureSubject": "One clearly visible circular spider web between two bicycle-path fence posts, a tiny spider at the edge, no other animals or labels."
+        }
+      ]
+    }
+  ],
+  "blendTargets": [
+    [
+      "flag",
+      "grip",
+      "clip",
+      "step",
+      "stop",
+      "spin",
+      "flat",
+      "spot",
+      "skid",
+      "trip"
+    ],
+    [
+      "brim",
+      "drop",
+      "drip",
+      "snap",
+      "slip",
+      "trim",
+      "twig",
+      "grin",
+      "plug",
+      "tram"
+    ]
+  ],
+  "blendClues": {
+    "set1": [
+      [
+        "A cloth triangle on a bike pole is a ___.",
+        "The textured handle your hand holds is a ___.",
+        "The tiny cable fastener is a ___.",
+        "One level of the wooden stairway is a ___.",
+        "Become still at the crossing: ___.",
+        "Turn the raised wheel round and round: ___.",
+        "The tire has lost its air; it is ___.",
+        "A single round paint mark is a ___.",
+        "A tire's sideways slide is a ___.",
+        "Stumble when your toe catches: ___."
+      ],
+      [
+        "The flat front part of a cap is its ___.",
+        "Let the glove fall into the basket: ___ it.",
+        "Water falls slowly from the tap: ___.",
+        "Push the helmet buckle shut with a click: ___.",
+        "The boot slides off a wet pedal: ___.",
+        "Cut the hedge shorter: ___ it.",
+        "A small thin branch is a ___.",
+        "A wide happy smile is a ___.",
+        "Fill a small tire hole with a rubber ___.",
+        "The street vehicle runs on metal rails: a ___."
+      ]
+    ],
+    "set2": [
+      [
+        "The bike pole carries a small cloth ___.",
+        "A rubber handle cover gives your hand a ___.",
+        "The small fastener holds the cable: a ___.",
+        "Each single stair is one ___.",
+        "End all movement at the crossing: ___.",
+        "To turn a wheel in circles, ___ it.",
+        "A tire with no air is ___.",
+        "One round painted dot is a ___.",
+        "A sideways tire slide is called a ___.",
+        "Catch a toe and stumble: ___."
+      ],
+      [
+        "The projecting front edge of a cap is the ___.",
+        "Release the glove so it falls: ___ it.",
+        "Fall from the tap in small drops: ___.",
+        "Close the helmet buckle with a sharp click: ___.",
+        "Slide off the wet pedal: ___.",
+        "Make the park hedge shorter: ___ it.",
+        "The thin little piece of branch is a ___.",
+        "The word for a broad happy smile is ___.",
+        "The rubber piece fills a tire hole: a ___.",
+        "This city rail vehicle is a ___."
+      ]
+    ]
+  },
+  "blendPictures": {
+    "flag": "One orange triangular safety flag on a tall thin bicycle pole, isolated compact pole and mounting point, no words.",
+    "grip": "Close view of one gloved hand wrapped around a textured black rubber bicycle handlebar grip, grip is dominant, no text.",
+    "clip": "One small blue bicycle cable-retaining clip visibly clasping a short brake cable to a frame tube, clear pinch fastener shape.",
+    "step": "One broad wooden step at the entrance to a bicycle rest shelter, clear single raised stair, parked bicycle partly behind.",
+    "stop": "One helmeted child rider fully stopped with both feet on the ground beside a protected crossing, raised open palm and still wheels, no sign words.",
+    "spin": "Close view of a raised bicycle wheel spinning on a repair stand, curved motion arcs around the rim, no rider.",
+    "flat": "One clearly deflated bicycle tire squashed flat where it rests on the ground, wheel and valve dominant, no rider.",
+    "spot": "One bold round yellow painted route marker on a small patch of protected cycle path, simple single circular spot, no words.",
+    "skid": "One bicycle tire leaving a clear sideways curved skid mark on damp path, tight closeup of tire and mark only, no rider or injury.",
+    "trip": "At a rest stop, a helmeted child walking beside a parked bike catches one shoe on a small raised paving stone and starts a harmless stumble, no fall or injury.",
+    "brim": "Close view of one cloth cap with the forward brim clearly highlighted by a curved shape, no letters, no person riding in a cap.",
+    "drop": "One cycling glove falling from an open hand into a bicycle basket, a simple downward motion arrow, no other falling items.",
+    "drip": "Close view of a park drinking-water tap with three separate drops falling from its spout into a small puddle.",
+    "snap": "Close view of two hands fastening a helmet buckle with a clear click sparkle at the joining pieces, helmet edge visible, no text.",
+    "slip": "Close view of a shoe beginning to slide off a wet bicycle pedal while the bike is stationary, small motion arrow, no falling rider.",
+    "trim": "One friendly park gardener neatly cutting the outside edge of a hedge with hand shears beside a cycle path, no power equipment.",
+    "twig": "One small forked wooden twig lying on the edge of a park cycle path, primary twig only, no foliage hiding its outline.",
+    "grin": "Close view of a cheerful helmeted child rider showing a broad toothy grin after a ride, shoulders and helmet visible, no other people.",
+    "plug": "One small black rubber bicycle tire-repair plug beside a tiny tire puncture, plug is dominant and easy to distinguish from a metal nut.",
+    "tram": "One red-and-cream city tram on two visible metal rails alongside a protected bicycle path, no writing or numbers."
+  },
+  "phonics": {
+    "first1": [
+      "bus",
+      "van",
+      "cab",
+      "map",
+      "leg",
+      "nut"
+    ],
+    "first2": [
+      "bin",
+      "tap",
+      "dog",
+      "sun",
+      "red",
+      "web"
+    ],
+    "initial": [
+      "bag",
+      "cap",
+      "leg",
+      "nut",
+      "peg",
+      "zip"
+    ],
+    "vowels": [
+      "cap",
+      "leg",
+      "kit",
+      "dog",
+      "bus"
+    ],
+    "last": [
+      "bag",
+      "cap",
+      "kit",
+      "van",
+      "red",
+      "jam"
+    ],
+    "blends": [
+      "flag",
+      "grip",
+      "clip",
+      "step",
+      "spin",
+      "trip"
+    ],
+    "blends2": [
+      "brim",
+      "drop",
+      "snap",
+      "slip",
+      "trim",
+      "plug"
+    ]
+  },
+  "initialIds": [
+    "bag",
+    "cap",
+    "leg",
+    "nut",
+    "peg",
+    "zip",
+    "bus",
+    "map",
+    "tap",
+    "bin"
+  ],
+  "initialClues": {
+    "set1": [
+      "The zipped pannier is a ___.",
+      "The cloth hat with a front brim is a ___.",
+      "The body part from hip to foot is a ___.",
+      "The hexagonal threaded fastener is a ___.",
+      "The short axle footrest is a ___.",
+      "The toothed bag fastener is a ___.",
+      "The long city vehicle has many seats: a ___.",
+      "The paper route drawing is a ___.",
+      "The water outlet has a turning handle: a ___.",
+      "The park rubbish container is a ___."
+    ],
+    "set2": [
+      "Carry the ride gear in a zipped ___.",
+      "At the rest stop, hold the brimmed cloth ___.",
+      "A rider bends this body part at the knee: a ___.",
+      "A six-sided fastener holds the axle: a ___.",
+      "The cylindrical axle footrest is a bike ___.",
+      "Close the bag teeth with a ___.",
+      "Many passengers sit in the large city ___.",
+      "Find the bike route on the paper ___.",
+      "Turn the water handle on the ___.",
+      "Put park litter into the rubbish ___."
+    ]
+  },
+  "sounds": {
+    "bus": [
+      "b",
+      "ʌ",
+      "s"
+    ],
+    "van": [
+      "v",
+      "æ",
+      "n"
+    ],
+    "cab": [
+      "k",
+      "æ",
+      "b"
+    ],
+    "map": [
+      "m",
+      "æ",
+      "p"
+    ],
+    "bag": [
+      "b",
+      "æ",
+      "ɡ"
+    ],
+    "cap": [
+      "k",
+      "æ",
+      "p"
+    ],
+    "leg": [
+      "l",
+      "ɛ",
+      "ɡ"
+    ],
+    "peg": [
+      "p",
+      "ɛ",
+      "ɡ"
+    ],
+    "nut": [
+      "n",
+      "ʌ",
+      "t"
+    ],
+    "kit": [
+      "k",
+      "ɪ",
+      "t"
+    ],
+    "bin": [
+      "b",
+      "ɪ",
+      "n"
+    ],
+    "tap": [
+      "t",
+      "æ",
+      "p"
+    ],
+    "dog": [
+      "d",
+      "ɑ",
+      "ɡ"
+    ],
+    "sun": [
+      "s",
+      "ʌ",
+      "n"
+    ],
+    "red": [
+      "ɹ",
+      "ɛ",
+      "d"
+    ],
+    "zip": [
+      "z",
+      "ɪ",
+      "p"
+    ],
+    "cup": [
+      "k",
+      "ʌ",
+      "p"
+    ],
+    "mat": [
+      "m",
+      "æ",
+      "t"
+    ],
+    "jam": [
+      "dʒ",
+      "æ",
+      "m"
+    ],
+    "web": [
+      "w",
+      "ɛ",
+      "b"
+    ],
+    "flag": [
+      "f",
+      "l",
+      "æ",
+      "ɡ"
+    ],
+    "grip": [
+      "ɡ",
+      "ɹ",
+      "ɪ",
+      "p"
+    ],
+    "clip": [
+      "k",
+      "l",
+      "ɪ",
+      "p"
+    ],
+    "step": [
+      "s",
+      "t",
+      "ɛ",
+      "p"
+    ],
+    "spin": [
+      "s",
+      "p",
+      "ɪ",
+      "n"
+    ],
+    "trip": [
+      "t",
+      "ɹ",
+      "ɪ",
+      "p"
+    ],
+    "brim": [
+      "b",
+      "ɹ",
+      "ɪ",
+      "m"
+    ],
+    "drop": [
+      "d",
+      "ɹ",
+      "ɑ",
+      "p"
+    ],
+    "snap": [
+      "s",
+      "n",
+      "æ",
+      "p"
+    ],
+    "slip": [
+      "s",
+      "l",
+      "ɪ",
+      "p"
+    ],
+    "trim": [
+      "t",
+      "ɹ",
+      "ɪ",
+      "m"
+    ],
+    "plug": [
+      "p",
+      "l",
+      "ʌ",
+      "ɡ"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "scene1",
+      "title": "Home start",
+      "words": [
+        "cap",
+        "bag",
+        "zip",
+        "kit",
+        "peg",
+        "nut",
+        "mat",
+        "dog"
+      ],
+      "sceneSubject": "A welcoming city home courtyard and bicycle preparation area, parked bikes, pannier and repair station, doormat, a leashed dog and diverse helmeted children with an adult guide, no one riding without a helmet, no written labels."
+    },
+    {
+      "id": "scene2",
+      "title": "City path",
+      "words": [
+        "bus",
+        "van",
+        "cab",
+        "map",
+        "red",
+        "bin",
+        "leg",
+        "tram"
+      ],
+      "sceneSubject": "A bright city avenue with a wide protected cycle path separated from motor traffic, city bus, small delivery van, yellow taxi and tram on rails in the background, helmeted child riders with an adult guide in the cycle path, a signal and route-map stand, no text."
+    },
+    {
+      "id": "scene3",
+      "title": "Park stop",
+      "words": [
+        "cup",
+        "tap",
+        "sun",
+        "web",
+        "flag",
+        "twig",
+        "flat",
+        "grin"
+      ],
+      "sceneSubject": "A sunny city park bicycle rest stop with a drinking-water tap, picnic bench, bike repair stand and parked bikes, diverse helmeted children smiling with an adult guide, trees and a fence beside the protected route, no written labels."
+    }
+  ],
+  "coverSubject": "A cheerful diverse group of three children wearing properly fitted bicycle helmets rides with an adult guide on a protected city cycle path; colourful low city buildings and a leafy park are behind them, friendly rounded bicycles, full figures and wheels visible, no motor traffic in the cycle path and no text.",
+  "rainSubject": "The city home bicycle preparation courtyard on a rainy day, parked bikes under a porch, helmets and waterproof jackets on diverse children with an adult guide, clear soft raindrops and puddles, no active riding in traffic, no words."
+}

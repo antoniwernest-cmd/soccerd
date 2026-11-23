@@ -1,0 +1,449 @@
+CITY BIKE RIDE — EXACT ARTWORK PROMPTS AND SAVED PATHS
+
+Mode: built-in image_gen (as recorded for each asset).
+Original generated PNGs remain at their default source paths. Selected full-resolution originals are preserved below.
+Web assets are deterministic resized WebP copies; alpha is retained.
+
+bike / hero (hero)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-3e3bc892-4e27-4472-9595-6d1652fe9b01.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\hero-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\team-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\stadium-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\assets\covers\bike.webp
+Exact prompt: Draw a new original cover illustration for a children's listening and CVC reading activity. Theme: CITY BIKE RIDE. Three diverse children and an adult guide riding bicycles slowly on a broad protected city cycle path through a park. Every rider wears a properly fastened bicycle helmet. Colorful low-rise city buildings, trees, a bike rack, a water stop and a distant tram beyond the separated path. Bright friendly neighborhood, all wheels and riders clear, no road danger or stunts. Premium rounded 3D animated family-film aesthetic, expressive kind faces, soft tactile materials, natural correct hands and body proportions, rich color and bright soft lighting. Landscape 3:2 composition, large clear subjects filling the usable frame; minimal empty sky, no blank copy area. Full artwork background, no transparent cutout. No words, letters, numbers, captions, logos, footballs, soccer motifs, brands or watermark.
+
+bike / bag (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-598c5bd0-9154-4c9b-a8b6-a8094c335972.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\bag-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\bag-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bag" in a CITY BIKE RIDE listening and reading activity. Subject: One blue zipped bicycle pannier bag attached to a short isolated rear rack, bag is dominant and closed, no loose equipment. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / bin (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-4aced5ee-1f9d-4077-bf27-ab4f31475014.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\bin-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\bin-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bin" in a CITY BIKE RIDE listening and reading activity. Subject: One green park rubbish bin with an open flap beside a cycle path, a small recycle symbol is allowed but no words. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / brim (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-6d7c9d46-3efa-4c49-b9ee-5c96ee5c9f89.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\brim-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\brim-v1.webp
+Exact prompt: Draw a new original learning picture for the word "brim" in a CITY BIKE RIDE listening and reading activity. Subject: Close view of one cloth cap with the forward brim clearly highlighted by a curved shape, no letters, no person riding in a cap. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / bus (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-d8992a46-f4b3-4e41-a06b-6801335236b8.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\bus-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\bus-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bus" in a CITY BIKE RIDE listening and reading activity. Subject: One long blue city bus with two rows of windows and many seats visible, parked beside a protected cycle lane; no lettering or passengers in front. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / cab (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-7a0d3b6c-4449-4724-8e0c-047ab3b97737.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\cab-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\cab-v1.webp
+Exact prompt: Draw a new original learning picture for the word "cab" in a CITY BIKE RIDE listening and reading activity. Subject: One bright yellow city taxi cab with a small plain roof light, parked at the curb beyond a protected cycle path, no writing. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / cap (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-32e4e9ef-3c95-4267-80b9-6c97b316c72e.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\cap-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\cap-v1.webp
+Exact prompt: Draw a new original learning picture for the word "cap" in a CITY BIKE RIDE listening and reading activity. Subject: One red cloth sun cap with a clearly curved brim, resting beside a parked bicycle at a rest stop; no person wears it while riding. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / clip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-63fabedf-ab92-4927-9bf8-d54cc8902d2a.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\clip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\clip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "clip" in a CITY BIKE RIDE listening and reading activity. Subject: One small blue bicycle cable-retaining clip visibly clasping a short brake cable to a frame tube, clear pinch fastener shape. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / cup (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a3fef092-89d0-49e2-894e-859d8efc22e3.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\cup-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\cup-v1.webp
+Exact prompt: Draw a new original learning picture for the word "cup" in a CITY BIKE RIDE listening and reading activity. Subject: One open orange handleless drinking cup resting on a park picnic table corner at a bike stop, no other food or vessels. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / dog (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-65faef7e-224f-4df1-9ad0-157087ebb0fc.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\dog-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\dog-v1.webp
+Exact prompt: Draw a new original learning picture for the word "dog" in a CITY BIKE RIDE listening and reading activity. Subject: One friendly brown-and-white dog on a visible lead held outside the crop, standing calmly beside a parked bicycle, no other animals. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / drip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-b22a4332-53b7-4adc-bd88-d34026a0d47a.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\drip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\drip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "drip" in a CITY BIKE RIDE listening and reading activity. Subject: Close view of a park drinking-water tap with three separate drops falling from its spout into a small puddle. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / drop (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-7ed23662-fb97-4466-9900-111fa197c0d0.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\drop-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\drop-v1.webp
+Exact prompt: Draw a new original learning picture for the word "drop" in a CITY BIKE RIDE listening and reading activity. Subject: One cycling glove falling from an open hand into a bicycle basket, a simple downward motion arrow, no other falling items. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / flag (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-c9b4446c-8d2f-4151-83b4-6db7b698aebd.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\flag-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\flag-v1.webp
+Exact prompt: Draw a new original learning picture for the word "flag" in a CITY BIKE RIDE listening and reading activity. Subject: One orange triangular safety flag on a tall thin bicycle pole, isolated compact pole and mounting point, no words. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / flat (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2a8c14b8-6459-498e-bd97-8a1d92389cae.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\flat-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\flat-v1.webp
+Exact prompt: Draw a new original learning picture for the word "flat" in a CITY BIKE RIDE listening and reading activity. Subject: One clearly deflated bicycle tire squashed flat where it rests on the ground, wheel and valve dominant, no rider. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / grin (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-9c6b9716-0e37-4bfb-9fb0-9667e03adb31.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\grin-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\grin-v1.webp
+Exact prompt: Draw a new original learning picture for the word "grin" in a CITY BIKE RIDE listening and reading activity. Subject: Close view of a cheerful helmeted child rider showing a broad toothy grin after a ride, shoulders and helmet visible, no other people. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / grip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-fad509eb-f03f-4149-875d-def3b6a47fd4.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\grip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\grip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "grip" in a CITY BIKE RIDE listening and reading activity. Subject: Close view of one gloved hand wrapped around a textured black rubber bicycle handlebar grip, grip is dominant, no text. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / jam (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-82441ed7-85aa-4a0d-ae0c-f08df8a9f660.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\jam-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\jam-v1.webp
+Exact prompt: Draw a new original learning picture for the word "jam" in a CITY BIKE RIDE listening and reading activity. Subject: A short queue of stationary cars close together on a city road, red brake lamps visible, separated from an empty protected cycle lane; no cyclists in traffic. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / kit (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-fc95f9f7-c1aa-4bd5-9a3f-d354e8e764d9.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\kit-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\kit-v1.webp
+Exact prompt: Draw a new original learning picture for the word "kit" in a CITY BIKE RIDE listening and reading activity. Subject: One compact bicycle repair kit arranged neatly: mini pump, patch pieces, tire levers and small wrench, no bag, no text. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / leg (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-dc5960a2-bb90-455e-aea6-c5119ff77c46.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\leg-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\leg-v1.webp
+Exact prompt: Draw a new original learning picture for the word "leg" in a CITY BIKE RIDE listening and reading activity. Subject: Close view of one trousered leg and shoe beside a bicycle pedal, a small curved visual highlight follows the whole leg; no bare body or labels. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / map (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2d31a0e9-1fe8-42bb-9975-e5c3aec09259.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\map-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\map-v1.webp
+Exact prompt: Draw a new original learning picture for the word "map" in a CITY BIKE RIDE listening and reading activity. Subject: One unfolded paper city cycling map with a bold dotted route, simple streets and tiny landmarks, no words, letters or numbers. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / mat (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-3045c699-dae7-4f97-b99a-3d9d92a28306.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\mat-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\mat-v1.webp
+Exact prompt: Draw a new original learning picture for the word "mat" in a CITY BIKE RIDE listening and reading activity. Subject: One rectangular woven doormat beside a simple bicycle rack at a home doorway, mat fills most of the frame. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / nut (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-737989e6-97b3-4f83-9692-a52e094f881f.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\nut-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\nut-v1.webp
+Exact prompt: Draw a new original learning picture for the word "nut" in a CITY BIKE RIDE listening and reading activity. Subject: One large silver hexagonal threaded bicycle axle nut, clearly six sides and round threaded hole, isolated on a tiny workshop mat. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / peg (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-26500a8f-4927-45e2-a8fb-87c264072864.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\peg-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\peg-v1.webp
+Exact prompt: Draw a new original learning picture for the word "peg" in a CITY BIKE RIDE listening and reading activity. Subject: Close view of one cylindrical knurled bicycle axle footpeg attached to a small wheel axle section, no rider or stunt. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / plug (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-f7809884-9022-454a-bd59-54c30b428eec.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\plug-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\plug-v1.webp
+Exact prompt: Draw a new original learning picture for the word "plug" in a CITY BIKE RIDE listening and reading activity. Subject: One small black rubber bicycle tire-repair plug beside a tiny tire puncture, plug is dominant and easy to distinguish from a metal nut. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / red (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ea8bd3ff-2401-4a58-a454-8a07583e8bcf.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\red-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\red-v1.webp
+Exact prompt: Draw a new original learning picture for the word "red" in a CITY BIKE RIDE listening and reading activity. Subject: Close view of a traffic signal with its top red lamp glowing brightly, lower amber and green lamps dark, a protected bike lane edge below; no writing. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / skid (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2d5fc5da-62c2-495e-8ba4-546e52fd49a0.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\skid-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\skid-v1.webp
+Exact prompt: Draw a new original learning picture for the word "skid" in a CITY BIKE RIDE listening and reading activity. Subject: One bicycle tire leaving a clear sideways curved skid mark on damp path, tight closeup of tire and mark only, no rider or injury. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / slip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-0c0439f6-9788-41f1-9ab7-2f6daae0af42.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\slip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\slip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "slip" in a CITY BIKE RIDE listening and reading activity. Subject: Close view of a shoe beginning to slide off a wet bicycle pedal while the bike is stationary, small motion arrow, no falling rider. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / snap (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-35607c90-f408-4c46-927d-681a370d0291.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\snap-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\snap-v1.webp
+Exact prompt: Draw a new original learning picture for the word "snap" in a CITY BIKE RIDE listening and reading activity. Subject: Close view of two hands fastening a helmet buckle with a clear click sparkle at the joining pieces, helmet edge visible, no text. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / spin (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-c64572b0-adff-43a9-89e0-6fadb2421fc4.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\spin-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\spin-v1.webp
+Exact prompt: Draw a new original learning picture for the word "spin" in a CITY BIKE RIDE listening and reading activity. Subject: Close view of a raised bicycle wheel spinning on a repair stand, curved motion arcs around the rim, no rider. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / spot (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-bc653c20-f134-4fef-b567-748363c49ec5.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\spot-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\spot-v1.webp
+Exact prompt: Draw a new original learning picture for the word "spot" in a CITY BIKE RIDE listening and reading activity. Subject: One bold round yellow painted route marker on a small patch of protected cycle path, simple single circular spot, no words. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / step (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-00079dea-6d30-4ce5-8d41-79d9bcddafc1.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\step-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\step-v1.webp
+Exact prompt: Draw a new original learning picture for the word "step" in a CITY BIKE RIDE listening and reading activity. Subject: One broad wooden step at the entrance to a bicycle rest shelter, clear single raised stair, parked bicycle partly behind. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / stop (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-87542c65-83f2-4a89-a621-83e9fc199e56.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\stop-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\stop-v1.webp
+Exact prompt: Draw a new original learning picture for the word "stop" in a CITY BIKE RIDE listening and reading activity. Subject: One helmeted child rider fully stopped with both feet on the ground beside a protected crossing, raised open palm and still wheels, no sign words. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / sun (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-dddc111d-c668-452e-9d25-1e57c5ad0685.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\sun-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\sun-v1.webp
+Exact prompt: Draw a new original learning picture for the word "sun" in a CITY BIKE RIDE listening and reading activity. Subject: One bright golden sun with simple rounded rays above a small strip of city park trees, no face needed and no lettering. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / tap (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-fd5756e0-bd2b-4984-9762-f1e932ec12cd.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\tap-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\tap-v1.webp
+Exact prompt: Draw a new original learning picture for the word "tap" in a CITY BIKE RIDE listening and reading activity. Subject: One silver outdoor drinking-water tap with a clear turning handle and short spout, mounted at a bicycle rest station, no running water. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / tram (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-f418cfa4-c739-4d57-9723-fbbd1c43592b.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\tram-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\tram-v1.webp
+Exact prompt: Draw a new original learning picture for the word "tram" in a CITY BIKE RIDE listening and reading activity. Subject: One red-and-cream city tram on two visible metal rails alongside a protected bicycle path, no writing or numbers. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / trim (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-b98a0579-c168-486b-877d-2c63cf6a534a.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\trim-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\trim-v1.webp
+Exact prompt: Draw a new original learning picture for the word "trim" in a CITY BIKE RIDE listening and reading activity. Subject: One friendly park gardener neatly cutting the outside edge of a hedge with hand shears beside a cycle path, no power equipment. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / trip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-d35b07e3-0a73-4353-a465-d67db85e1915.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\trip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\trip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "trip" in a CITY BIKE RIDE listening and reading activity. Subject: At a rest stop, a helmeted child walking beside a parked bike catches one shoe on a small raised paving stone and starts a harmless stumble, no fall or injury. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / twig (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2613b905-cadb-4b3b-93b6-eabb7a546f2f.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\twig-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\twig-v1.webp
+Exact prompt: Draw a new original learning picture for the word "twig" in a CITY BIKE RIDE listening and reading activity. Subject: One small forked wooden twig lying on the edge of a park cycle path, primary twig only, no foliage hiding its outline. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / van (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-510d0ffd-b3ed-4869-99ef-81ceddadf6c4.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\van-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\van-v1.webp
+Exact prompt: Draw a new original learning picture for the word "van" in a CITY BIKE RIDE listening and reading activity. Subject: One compact white delivery van with its sliding side cargo door open, parked safely beside a city loading bay, no brand or lettering. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / web (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-f324c9d4-60cc-4244-924f-359f37a6e4b4.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\web-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\web-v1.webp
+Exact prompt: Draw a new original learning picture for the word "web" in a CITY BIKE RIDE listening and reading activity. Subject: One clearly visible circular spider web between two bicycle-path fence posts, a tiny spider at the edge, no other animals or labels. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / zip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-1ba554f0-ace6-46d9-9ec0-1f42f8c1b587.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\zip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\pictures\zip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "zip" in a CITY BIKE RIDE listening and reading activity. Subject: Close view of one large blue bag zipper with two interlocking tooth rows and a clear pull tab, no other bag details or props. Premium rounded 3D animated family-film illustration, kind natural expressions, correct hands/anatomy, vivid cobalt-blue and coral accents, soft tactile materials and bright studio lighting. Any riding person wears a correctly fastened bicycle helmet; use a protected path, no stunts or road danger. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or competing target objects.
+
+bike / ball-box (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-9854b845-173e-43bd-8e88-fc6c13b8cade.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\ball-box-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\ball-box-v1.webp
+Exact prompt: Draw an open sturdy cardboard box holding a few round blue bicycle bells with silver levers at its top, coral reinforced corners. Three-quarter view with a large broad unobstructed tan FRONT SIDE facing the viewer, completely blank so the activity can overlay a quantity. One compact box only, all contents inside the rim, no loose items around it, entire object within frame with margin. Premium rounded 3D animated family-film classroom style, tactile materials, bright soft studio light, clear recognizable silhouette. Real transparent alpha background, no floor, words, letters, numbers, labels, branding, footballs, logos or watermark.
+
+bike / rain (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-cf99bec4-a381-4c99-81d9-f51691c0a223.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\rain-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\rain-v1.webp
+Exact prompt: Draw a new original illustrated setting for the bike children's outdoor-adventure reading activity. Subject: The city home bicycle preparation courtyard on a rainy day, parked bikes under a porch, helmets and waterproof jackets on diverse children with an adult guide, clear soft raindrops and puddles, no active riding in traffic, no words. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+bike / scene1 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-24e89e30-143f-4b1e-b72a-033656f5c3b4.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\scene1-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\scene1-v1.webp
+Exact prompt: Draw a new original illustrated setting for the bike children's outdoor-adventure reading activity. Subject: A welcoming city home courtyard and bicycle preparation area, parked bikes, pannier and repair station, doormat, a leashed dog and diverse helmeted children with an adult guide, no one riding without a helmet, no written labels. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+bike / scene2 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-09d1a432-d9b2-41e1-b041-25f657529edb.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\scene2-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\scene2-v1.webp
+Exact prompt: Draw a new original illustrated setting for the bike children's outdoor-adventure reading activity. Subject: A bright city avenue with a wide protected cycle path separated from motor traffic, city bus, small delivery van, yellow taxi and tram on rails in the background, helmeted child riders with an adult guide in the cycle path, a signal and route-map stand, no text. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+bike / scene3 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-899e2fab-3869-456c-8a47-7e3314efb49b.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\scene3-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\scene3-v1.webp
+Exact prompt: Draw a new original illustrated setting for the bike children's outdoor-adventure reading activity. Subject: A sunny city park bicycle rest stop with a drinking-water tap, picnic bench, bike repair stand and parked bikes, diverse helmeted children smiling with an adult guide, trees and a fence beside the protected route, no written labels. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+bike / unit (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-aca23904-5971-4247-83f3-708a4c1957c5.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\bike\unit-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\ball-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One shiny bicycle bell with a cobalt-blue round dome, small silver thumb lever and a short black handlebar clamp. One bell only, no bicycle, hands or other equipment. Clear compact three-quarter view for a children's counting activity. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / adventure-truck (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-e7b34f68-89ce-49a9-a6e6-f1d3bcb5c52e.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\adventure-truck-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\adventure-truck-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\adventure-truck-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\adventure-truck-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\adventure-truck-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One friendly outdoor-equipment delivery truck, emerald-teal cab at LEFT with orange trim, roomy empty open cargo bed extending RIGHT, blank light side panel, big black wheels, visible headlights, three-quarter side/front view. No cargo boxes, people, loose objects, football emblems, lettering, numbers, brands or face. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / headphones (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2259254d-1ac8-4aec-b77b-7a4eb44d2da5.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\headphones-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\headphones-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\headphones-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\headphones-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\headphones-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful pair of over-ear headphones, teal headband, orange ear cushions and cream highlights. Plain unbranded surfaces, no ball emblems or logos. Tilted three-quarter view, compact unmistakable listening icon. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / math-player-1 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-3eca9a55-eb56-4841-9cc2-f6a1c4dd4303.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\math-player-1-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\math-player-1-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\math-player-1-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\math-player-1-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\math-player-1-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful Black girl, about eight years old, curly hair in two puffs, teal outdoor shirt, tan knee-length shorts and sturdy orange walking shoes. Full body standing upright facing forward, empty hands at sides, feet visible. No items, balls, equipment, badges, numbers or emblems; the counting objects are added separately by an app. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / math-player-2 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-d426ffd5-6a33-46ee-a3b1-0a5095f421c7.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\math-player-2-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\math-player-2-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\math-player-2-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\math-player-2-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\math-player-2-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful East Asian boy, about eight years old, short dark hair, orange outdoor shirt, navy knee-length shorts and teal walking shoes. Full body standing upright facing forward, empty hands at sides, feet visible. No items, balls, equipment, badges, numbers or emblems; the counting objects are added separately by an app. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / math-player-3 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ea5b4e89-3940-4b28-8387-70bda6773ea6.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\math-player-3-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\math-player-3-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\math-player-3-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\math-player-3-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\math-player-3-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful light-brown-skinned girl, about eight years old, dark ponytail, lilac outdoor shirt, forest-green knee-length shorts and tan walking shoes. Full body standing upright facing forward, empty hands at sides, feet visible. No items, balls, equipment, badges, numbers or emblems; the counting objects are added separately by an app. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / trophy (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-f0f1164b-16af-4099-b70c-33fb003bd4ad.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\trophy-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\trophy-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\trophy-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\trophy-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\trophy-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One friendly golden five-point star reward badge with a small turquoise compass circle at its center. Rounded tactile 3D style, warm gold shine, clear star silhouette. No letters, numbers, trophy cup, sports equipment or logos. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.

@@ -1,0 +1,577 @@
+{
+  "id": "scuba",
+  "title": "Scuba",
+  "shortTitle": "Scuba Words",
+  "wordTopic": "scuba",
+  "setNames": [
+    "Dive gear",
+    "Dive day"
+  ],
+  "unit": {
+    "singular": "dive mask",
+    "plural": "dive masks",
+    "shortPlural": "masks",
+    "role": "diver",
+    "rewardPhrase": "a dive mask",
+    "newAsset": "mask"
+  },
+  "palette": {
+    "primary": "#116D8B",
+    "accent": "#EFB254",
+    "background": "#E5F5F7"
+  },
+  "core": [
+    {
+      "id": "set1",
+      "name": "Dive gear",
+      "words": [
+        {
+          "id": "fin",
+          "clue": "The long rubber diving flipper is a ___.",
+          "reason": "A separate manufactured diving flipper, not the whole cod fish.",
+          "pictureSubject": "One long blue-and-yellow rubber diving fin with its foot pocket and broad flexible blade clearly visible, isolated on a tiny wet deck patch."
+        },
+        {
+          "id": "sub",
+          "clue": "The small underwater vehicle is a ___.",
+          "reason": "Only sub is an underwater vehicle; other transport is in the other bank.",
+          "pictureSubject": "One friendly yellow mini submarine with round windows, a small propeller and a few bubbles; no people or writing."
+        },
+        {
+          "id": "cod",
+          "clue": "The fish with a chin barbel is a ___.",
+          "reason": "The only whole fish in this bank; fin is a rubber diving flipper.",
+          "pictureSubject": "One recognizable mottled green-brown cod fish with its small chin barbel, whole fish in a gentle swimming pose, no other animals."
+        },
+        {
+          "id": "net",
+          "clue": "The cleanup scoop made of mesh is a ___.",
+          "reason": "Only net has mesh for scooping loose litter.",
+          "pictureSubject": "One small marine-cleanup hand net with a pale mesh hoop and teal handle, empty, no animals or litter inside."
+        },
+        {
+          "id": "tub",
+          "clue": "Rinse the dive gear in the round water ___.",
+          "reason": "A large round rinse container, unlike a cup or a zipped bag.",
+          "pictureSubject": "One round blue plastic dive-gear rinse tub partly filled with clear water, entire rim and sides visible, no loose gear."
+        },
+        {
+          "id": "bag",
+          "clue": "The zipped dive-gear container is a ___.",
+          "reason": "A zipped fabric luggage container, not a tub or drinking cup.",
+          "pictureSubject": "One sturdy teal zipped dive duffel bag with handles and a shoulder strap, blank panels, no loose objects around it."
+        },
+        {
+          "id": "cup",
+          "clue": "Drink water from the small handleless ___.",
+          "reason": "The small handleless drinking vessel, unlike the large rinse tub.",
+          "pictureSubject": "One small orange handleless water cup at the dive base, open rim visible, no other containers."
+        },
+        {
+          "id": "map",
+          "clue": "The paper plan of the reef route is a ___.",
+          "reason": "Only map is a paper route plan.",
+          "pictureSubject": "One unfolded waterproof reef map showing simple reef shapes, a curved route and a compass arrow, no words or numbers."
+        },
+        {
+          "id": "cap",
+          "clue": "The boat headwear with a brim is a ___.",
+          "reason": "Only cap is brimmed headwear.",
+          "pictureSubject": "One blue sun cap with a clearly projecting brim, plain fabric and no emblem, resting on a tiny boat-deck patch."
+        },
+        {
+          "id": "peg",
+          "clue": "The wooden pinch fastener on the line is a ___.",
+          "reason": "A wooden clothespeg, distinct from the other large gear objects.",
+          "pictureSubject": "One large wooden clothespeg clipped onto a short rinse-station drying line, with a tiny blank fabric corner held between its jaws."
+        }
+      ]
+    },
+    {
+      "id": "set2",
+      "name": "Dive day",
+      "words": [
+        {
+          "id": "wet",
+          "clue": "The gear covered in water drops is ___.",
+          "reason": "Only wet is an adjective describing water on equipment; dip is a quick dunk.",
+          "pictureSubject": "One pair of dive gloves visibly soaked with large clear water beads and dripping into a small puddle; no person or other gear."
+        },
+        {
+          "id": "sun",
+          "clue": "The bright daytime star is the ___.",
+          "reason": "Only sun names the daytime star.",
+          "pictureSubject": "One cheerful golden sun above a tiny curved strip of sparkling blue sea, large clear sun disk and rays, no written symbols."
+        },
+        {
+          "id": "bin",
+          "clue": "Put shore litter in the large lidded ___.",
+          "reason": "Only bin is the large waste container.",
+          "pictureSubject": "One large teal shore-cleanup bin with its lid slightly open and plain blank sides, no words or loose litter."
+        },
+        {
+          "id": "tag",
+          "clue": "The small name label on the gear is a ___.",
+          "reason": "Only tag is a small attached identification label.",
+          "pictureSubject": "One blank orange equipment tag with a punched hole and short cord, attached to a tiny corner of dark gear fabric; no lettering."
+        },
+        {
+          "id": "zip",
+          "clue": "Two rows of bag teeth close with a ___.",
+          "reason": "The toothed fastener, unlike the attached label tag.",
+          "pictureSubject": "A close-up of a large yellow gear-bag zipper, clear interlocking teeth and pull tab on a small teal fabric panel, no whole bag."
+        },
+        {
+          "id": "kit",
+          "clue": "All the diving equipment forms a ___.",
+          "reason": "A complete collection of gear, unlike one label or fastener.",
+          "pictureSubject": "One neatly arranged complete scuba kit: mask, fins, buoyancy vest, tank and regulator together, no person, no written labels."
+        },
+        {
+          "id": "jet",
+          "clue": "The team flies in the passenger ___.",
+          "reason": "The only aircraft in this bank; van is a road vehicle.",
+          "pictureSubject": "One white-and-teal passenger jet with visible wings and engines, three-quarter view above a tiny coastal cloud, no branding."
+        },
+        {
+          "id": "van",
+          "clue": "The dive team drives the road ___.",
+          "reason": "The only wheeled road vehicle in this bank.",
+          "pictureSubject": "One friendly plain teal dive-team van with four wheels, side door and roof rack, parked on a tiny coastal ground patch, no writing or logo."
+        },
+        {
+          "id": "dip",
+          "clue": "A quick dunk in the water is a ___.",
+          "reason": "Dip is the only noun for a quick dunk; wet is a state.",
+          "pictureSubject": "Close-up of one child hand briefly dipping its fingertips into clear shallow water at the shore, small ripples and a short down-up motion arc, no text."
+        },
+        {
+          "id": "sit",
+          "clue": "Rest your bottom on the boat bench: ___.",
+          "reason": "Only sit describes the seated position.",
+          "pictureSubject": "One cheerful child in a lifejacket sitting upright on a small boat bench, feet down, calm pose, no loose gear or writing."
+        }
+      ]
+    }
+  ],
+  "blendTargets": [
+    [
+      "crab",
+      "clam",
+      "swim",
+      "flag",
+      "grip",
+      "drip",
+      "drop",
+      "clip",
+      "step",
+      "spot"
+    ],
+    [
+      "flat",
+      "plug",
+      "trap",
+      "slip",
+      "scan",
+      "spin",
+      "brim",
+      "stop",
+      "slug",
+      "skin"
+    ]
+  ],
+  "blendClues": {
+    "set1": [
+      [
+        "The sea animal with two large claws is a ___.",
+        "The animal inside a two-part shell is a ___.",
+        "Move through water with fins: ___.",
+        "The boat pole carries a cloth ___.",
+        "A firm hand hold on the dive torch is a ___.",
+        "Water falls slowly drop by drop: ___.",
+        "Let the glove fall from your hand: ___ it.",
+        "The gear fastener with a metal snap gate is a ___.",
+        "One stair from dock to boat is a ___.",
+        "One round mark on the fish is a ___."
+      ],
+      [
+        "The stone has a smooth, level top: it is ___.",
+        "The rubber rinse-tub stopper is a ___.",
+        "An empty cage with a closing door is a ___.",
+        "A foot slides on wet boards in a ___.",
+        "Look carefully across the reef: ___ it.",
+        "Turn round in one place: ___.",
+        "The cap part that shades eyes is its ___.",
+        "Bring all movement to an end: ___.",
+        "The soft sea animal with no shell is a ___.",
+        "Your hand's outer covering is ___."
+      ]
+    ],
+    "set2": [
+      [
+        "The sideways sea walker has big claws: a ___.",
+        "The sea creature has two hinged shells: a ___.",
+        "To travel through water using fins, ___.",
+        "The cloth dive signal is a ___.",
+        "The glove has a firm hold: a ___.",
+        "To fall in tiny water drops is to ___.",
+        "Release the glove so it falls: ___ it.",
+        "Attach gear with the metal snap-gate ___.",
+        "Each single boat stair is a ___.",
+        "The round coloured dot on the fish is a ___."
+      ],
+      [
+        "The level-topped stone is ___.",
+        "Close the tub drain with the rubber ___.",
+        "The empty closing-door cage is a ___.",
+        "Sliding by accident on the wet deck is a ___.",
+        "To look over the reef carefully, ___ it.",
+        "To turn around on the spot, ___.",
+        "A cap shades your face with its ___.",
+        "Become completely still: ___.",
+        "The shell-free sea crawler is a ___.",
+        "The bare outer layer of a hand is ___."
+      ]
+    ]
+  },
+  "blendPictures": {
+    "crab": "One friendly red-orange crab with two large claws and several walking legs, whole body visible on a tiny pale seabed patch.",
+    "clam": "One rounded two-part clam shell opened just enough to show the soft animal inside, no pearl or other animals, on a small sand patch.",
+    "swim": "One cheerful scuba diver moving horizontally through clear water with a clear fin stroke, complete mask, regulator, tank and fins, an adult buddy small in the distance.",
+    "flag": "One red cloth dive flag with a white diagonal stripe on a short boat pole, full flag visible, no letters or words.",
+    "grip": "Close-up of one gloved diver hand firmly wrapped around a small dive torch, fingers visibly gripping the handle tightly.",
+    "drip": "One diving fin hanging toe-down with three separate water droplets dripping slowly from its tip, no other objects.",
+    "drop": "One diver hand releasing a glove above an open empty equipment basket, glove clearly falling with short downward motion accents.",
+    "clip": "One large silver equipment carabiner clip with a clearly visible spring snap gate, isolated and easy to recognize, no other fasteners.",
+    "step": "One single sturdy non-slip step between a dock edge and a dive boat, the step dominates the compact composition, no people.",
+    "spot": "A close view of a small yellow reef fish with exactly one large round blue spot on its side, the round mark is dominant and clear.",
+    "flat": "One broad smooth reef stone with a clearly level flat top, shown low from the side on a tiny sand patch, no people or animals.",
+    "plug": "One black rubber rinse-tub drain plug with a pull loop, beside a small round drain rim, no text or other equipment.",
+    "trap": "One empty wire fish-or-crab trap with a clear closing door, safely sitting on a small dry dock patch after retrieval; no animals inside or nearby.",
+    "slip": "Close view of a diver boot sliding a short distance on a wet boat-deck board, a small straight motion accent and water sheen, no falling body or injury.",
+    "scan": "One fully equipped diver looking carefully left and right across a reef, mask and dive torch directed outward with a gentle side-to-side viewing arc; no writing.",
+    "spin": "One fully equipped diver turning round in place in clear water, a clear curved circular motion arrow around the body, no writing.",
+    "brim": "Close-up of the broad front brim of a blue sun cap used on the dive boat, simple curved highlight indicating the projecting brim, no letters.",
+    "stop": "One fully equipped upright diver holding a palm outward in a clear stop gesture and remaining still, complete mask, regulator, tank and fins.",
+    "slug": "One colourful soft sea slug with small sensory tentacles and no hard shell, whole body visible on a tiny seabed stone, no other animals.",
+    "skin": "Close-up of one bare hand and forearm showing smooth natural skin, a small blue water edge in the background, neutral and non-graphic, no cuts, injuries or writing."
+  },
+  "phonics": {
+    "first1": [
+      "bag",
+      "cup",
+      "fin",
+      "net",
+      "peg",
+      "sub"
+    ],
+    "first2": [
+      "bin",
+      "jet",
+      "kit",
+      "van",
+      "wet",
+      "tag"
+    ],
+    "initial": [
+      "bag",
+      "cod",
+      "fin",
+      "net",
+      "peg",
+      "sub"
+    ],
+    "vowels": [
+      "cap",
+      "peg",
+      "kit",
+      "cod",
+      "sub"
+    ],
+    "last": [
+      "bag",
+      "cap",
+      "cod",
+      "fin",
+      "kit",
+      "tub"
+    ],
+    "blends": [
+      "crab",
+      "clam",
+      "swim",
+      "flag",
+      "drip",
+      "grip"
+    ],
+    "blends2": [
+      "step",
+      "plug",
+      "brim",
+      "scan",
+      "trap",
+      "spot"
+    ]
+  },
+  "initialIds": [
+    "bag",
+    "cod",
+    "fin",
+    "net",
+    "peg",
+    "sub",
+    "cap",
+    "cup",
+    "kit",
+    "tub"
+  ],
+  "initialClues": {
+    "set1": [
+      "Carry dive gear in the zipped ___.",
+      "The fish with a chin barbel is a ___.",
+      "The long rubber diving flipper is a ___.",
+      "The cleanup scoop has mesh: a ___.",
+      "The drying line has a wooden ___.",
+      "The underwater vehicle is a ___.",
+      "Wear the headwear with a brim: a ___.",
+      "The small handleless drinking vessel is a ___.",
+      "The whole set of dive equipment is a ___.",
+      "Rinse the equipment in the round water ___."
+    ],
+    "set2": [
+      "The zipped equipment container is a ___.",
+      "The whole brown-green fish is a ___.",
+      "A diver wears a rubber foot flipper: a ___.",
+      "Pick up loose litter with the mesh ___.",
+      "The wooden pinch fastener is a ___.",
+      "Travel below the water in a ___.",
+      "The brimmed boat hat is a ___.",
+      "Drink water from the small handleless ___.",
+      "All the diving equipment forms a ___.",
+      "The large round rinse container is a ___."
+    ]
+  },
+  "sounds": {
+    "fin": [
+      "f",
+      "ɪ",
+      "n"
+    ],
+    "sub": [
+      "s",
+      "ʌ",
+      "b"
+    ],
+    "cod": [
+      "k",
+      "ɑ",
+      "d"
+    ],
+    "net": [
+      "n",
+      "ɛ",
+      "t"
+    ],
+    "tub": [
+      "t",
+      "ʌ",
+      "b"
+    ],
+    "bag": [
+      "b",
+      "æ",
+      "ɡ"
+    ],
+    "cup": [
+      "k",
+      "ʌ",
+      "p"
+    ],
+    "map": [
+      "m",
+      "æ",
+      "p"
+    ],
+    "cap": [
+      "k",
+      "æ",
+      "p"
+    ],
+    "peg": [
+      "p",
+      "ɛ",
+      "ɡ"
+    ],
+    "wet": [
+      "w",
+      "ɛ",
+      "t"
+    ],
+    "sun": [
+      "s",
+      "ʌ",
+      "n"
+    ],
+    "bin": [
+      "b",
+      "ɪ",
+      "n"
+    ],
+    "tag": [
+      "t",
+      "æ",
+      "ɡ"
+    ],
+    "zip": [
+      "z",
+      "ɪ",
+      "p"
+    ],
+    "kit": [
+      "k",
+      "ɪ",
+      "t"
+    ],
+    "jet": [
+      "dʒ",
+      "ɛ",
+      "t"
+    ],
+    "van": [
+      "v",
+      "æ",
+      "n"
+    ],
+    "dip": [
+      "d",
+      "ɪ",
+      "p"
+    ],
+    "sit": [
+      "s",
+      "ɪ",
+      "t"
+    ],
+    "crab": [
+      "k",
+      "ɹ",
+      "æ",
+      "b"
+    ],
+    "clam": [
+      "k",
+      "l",
+      "æ",
+      "m"
+    ],
+    "swim": [
+      "s",
+      "w",
+      "ɪ",
+      "m"
+    ],
+    "flag": [
+      "f",
+      "l",
+      "æ",
+      "ɡ"
+    ],
+    "drip": [
+      "d",
+      "ɹ",
+      "ɪ",
+      "p"
+    ],
+    "grip": [
+      "ɡ",
+      "ɹ",
+      "ɪ",
+      "p"
+    ],
+    "step": [
+      "s",
+      "t",
+      "ɛ",
+      "p"
+    ],
+    "plug": [
+      "p",
+      "l",
+      "ʌ",
+      "ɡ"
+    ],
+    "brim": [
+      "b",
+      "ɹ",
+      "ɪ",
+      "m"
+    ],
+    "scan": [
+      "s",
+      "k",
+      "æ",
+      "n"
+    ],
+    "trap": [
+      "t",
+      "ɹ",
+      "æ",
+      "p"
+    ],
+    "spot": [
+      "s",
+      "p",
+      "ɑ",
+      "t"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "scene1",
+      "title": "Dive boat",
+      "words": [
+        "fin",
+        "sub",
+        "bag",
+        "cap",
+        "net",
+        "kit",
+        "cup",
+        "peg"
+      ],
+      "sceneSubject": "A friendly dive boat at a calm coastal dock, clean equipment preparation space, a sunny cabin and clear blue sea, diverse older children with an adult dive instructor preparing gear on deck; no lettering or logos."
+    },
+    {
+      "id": "scene2",
+      "title": "Reef",
+      "words": [
+        "cod",
+        "crab",
+        "clam",
+        "slug",
+        "spot",
+        "flat",
+        "skin",
+        "swim"
+      ],
+      "sceneSubject": "A colourful clear-water reef with gently rolling sand, smooth rocks, sea plants and a few distinct marine animals, an adult guide with fully equipped young divers observing from a respectful distance without touching coral; no text."
+    },
+    {
+      "id": "scene3",
+      "title": "Dive base",
+      "words": [
+        "tub",
+        "bin",
+        "map",
+        "tag",
+        "zip",
+        "jet",
+        "van",
+        "plug"
+      ],
+      "sceneSubject": "A welcoming coastal dive base with a shaded rinse station, neat gear storage, a small nearby team van and a distant passenger jet above the coast, children and an adult instructor preparing for an outing on dry land; blank signs and no lettering."
+    }
+  ],
+  "coverSubject": "A welcoming guided scuba adventure in sparkling clear water: two cheerful fully equipped young divers and a friendly adult dive instructor with masks, regulators, tanks and fins, colourful reef life below and a small dive boat near the surface, the group large and easy to see, no touching coral, no writing or logos.",
+  "rainSubject": "The coastal dive base during gentle rain, diverse children and an adult instructor safely preparing gear under a broad shelter on shore, visible raindrops, wet dock boards and a moored dive boat in the background, calm friendly mood, no lightning, no written signs."
+}

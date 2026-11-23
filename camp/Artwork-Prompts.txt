@@ -1,0 +1,442 @@
+SUMMER CAMP — EXACT ARTWORK PROMPTS AND SAVED PATHS
+
+Mode: built-in image_gen (as recorded for each asset).
+Original generated PNGs remain at their default source paths. Selected full-resolution originals are preserved below.
+Web assets are deterministic resized WebP copies; alpha is retained.
+
+camp / hero (hero)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ddb34749-39d9-41aa-95a8-0ac6601a7b05.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\hero-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\team-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\stadium-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\assets\covers\camp.webp
+Exact prompt: Draw a new original cover illustration for a children's listening and CVC reading activity. Theme: SUMMER CAMP. Five diverse children and a friendly adult camp leader at a cheerful forest-lake campsite, two wooden cabins, a small canvas tent, picnic mugs, a map and a simple camp flag. Happy relaxed faces; recognizable camping equipment; warm sun, pine trees and a clear blue lake. A close inviting view with the foreground group and camp filling the frame. Premium rounded 3D animated family-film aesthetic, expressive kind faces, soft tactile materials, natural correct hands and body proportions, rich color and bright soft lighting. Landscape 3:2 composition, large clear subjects filling the usable frame; minimal empty sky, no blank copy area. Full artwork background, no transparent cutout. No words, letters, numbers, captions, logos, footballs, soccer motifs, brands or watermark.
+
+camp / bag (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-b5aecb0e-44d9-47eb-83fd-69f7a67b9ed2.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\bag-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\bag-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bag" in a SUMMER CAMP listening and reading activity. Subject: One zipped blue camp duffel bag with handles and a shoulder strap, empty outside, no other target objects around it. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / bed (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-427a8aac-eb27-4eb4-a137-1851a7166e10.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\bed-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\bed-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bed" in a SUMMER CAMP listening and reading activity. Subject: One child-sized wooden cabin bed with a pillow and folded green blanket, whole bed visible, no person. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / bin (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-14ec9f13-b03d-4fcc-98b7-6923adc16f48.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\bin-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\bin-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bin" in a SUMMER CAMP listening and reading activity. Subject: One large green camp rubbish bin with a hinged lid slightly open, plain blank sides, no written labels. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / brim (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-3e678aa9-c945-4748-a999-4e3243a81545.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\brim-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\brim-v1.webp
+Exact prompt: Draw a new original learning picture for the word "brim" in a SUMMER CAMP listening and reading activity. Subject: Close-up of the projecting front brim of a green outdoor cap, simple curved highlight pointing to the brim, no lettering. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / bug (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-7900015f-3935-4037-878a-a7e2c61ac89e.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\bug-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\bug-v1.webp
+Exact prompt: Draw a new original learning picture for the word "bug" in a SUMMER CAMP listening and reading activity. Subject: One friendly small green six-legged beetle-like bug with two antennae on a small leaf; no other animals. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / cap (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-82878632-124d-473d-9386-9056b58f5eb8.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\cap-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\cap-v1.webp
+Exact prompt: Draw a new original learning picture for the word "cap" in a SUMMER CAMP listening and reading activity. Subject: One forest-green outdoor cap with a clearly projecting brim, no emblem, on a tiny neutral ground patch. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / clap (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-debc7cae-dff6-4911-8aa2-adea8a0c0c84.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\clap-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\clap-v1.webp
+Exact prompt: Draw a new original learning picture for the word "clap" in a SUMMER CAMP listening and reading activity. Subject: Close-up of two child hands meeting in a clear clapping action, a little green camp sleeve visible, curved motion accents and no words. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / clip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-035dfe5e-aec2-4600-89b1-6b9c31797680.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\clip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\clip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "clip" in a SUMMER CAMP listening and reading activity. Subject: One large silver spring clip with two pinch handles, holding two blank camp papers; the small metal fastener is the dominant subject. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / cup (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-b380d87d-4529-4ce2-b803-b0bf7bb57faa.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\cup-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\cup-v1.webp
+Exact prompt: Draw a new original learning picture for the word "cup" in a SUMMER CAMP listening and reading activity. Subject: One small turquoise handleless camp drinking cup, upright with its open rim visible, no other containers. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / dog (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-1e806cdb-381d-47b5-9e5b-57b1b9e7e7bf.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\dog-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\dog-v1.webp
+Exact prompt: Draw a new original learning picture for the word "dog" in a SUMMER CAMP listening and reading activity. Subject: One cheerful brown-and-white camp dog sitting with a simple collar and loose lead, whole body visible, no ball. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / drip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-423ad688-5687-4310-9cb2-6b38ffd063e6.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\drip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\drip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "drip" in a SUMMER CAMP listening and reading activity. Subject: One camp wash tap with three separate water droplets falling slowly from its spout into a little basin edge, no people. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / drop (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-b6ef911e-27aa-44b7-a042-d51f37e05eac.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\drop-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\drop-v1.webp
+Exact prompt: Draw a new original learning picture for the word "drop" in a SUMMER CAMP listening and reading activity. Subject: One child hand releasing a pine cone above an open empty camp basket, cone clearly falling with short downward motion accents. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / drum (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a321c7b9-dd2c-467f-b8e3-36c09898a1d0.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\drum-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\drum-v1.webp
+Exact prompt: Draw a new original learning picture for the word "drum" in a SUMMER CAMP listening and reading activity. Subject: One round wooden camp drum with a pale stretched skin and two short wooden drumsticks resting across the rim; no emblems. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / flag (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-6e349a65-d1c0-4461-a48c-4bba29168b05.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\flag-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\flag-v1.webp
+Exact prompt: Draw a new original learning picture for the word "flag" in a SUMMER CAMP listening and reading activity. Subject: One blank orange-and-green camp flag on a short wooden pole, entire cloth triangle and pole visible on a grass patch. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / flat (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-6a531dd3-c445-43a1-bf05-474167af2961.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\flat-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\flat-v1.webp
+Exact prompt: Draw a new original learning picture for the word "flat" in a SUMMER CAMP listening and reading activity. Subject: One unfolded camp mat lying completely smooth and level on a small floor patch, low side view showing it has no wrinkles or folds. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / frog (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a7318208-f0fc-40cf-b4fc-13b516b4ee3d.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\frog-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\frog-v1.webp
+Exact prompt: Draw a new original learning picture for the word "frog" in a SUMMER CAMP listening and reading activity. Subject: One bright green pond frog with long folded back legs and round eyes, sitting on a small wet stone. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / grip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-442d8b0d-8e9a-4f20-b1ac-6a2e85ca939c.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\grip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\grip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "grip" in a SUMMER CAMP listening and reading activity. Subject: Close-up of a child hand firmly wrapped around a wooden canoe paddle shaft, fingers visibly holding tightly, no whole boat. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / grub (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-b664924b-0c6e-4ee5-80f9-721b29d4743f.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\grub-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\grub-v1.webp
+Exact prompt: Draw a new original learning picture for the word "grub" in a SUMMER CAMP listening and reading activity. Subject: One pale cream C-shaped beetle grub with a small brown head, curled on a tiny soil patch; clearly different from a long slug. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / hut (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-8443596d-42f4-480f-a2b4-57c86025e128.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\hut-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\hut-v1.webp
+Exact prompt: Draw a new original learning picture for the word "hut" in a SUMMER CAMP listening and reading activity. Subject: One small cosy wooden camp hut with a clear roof, open doorway and tiny grass base; no people or loose equipment. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / jam (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-67c58d57-c646-44a2-b3de-157f78bbe021.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\jam-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\jam-v1.webp
+Exact prompt: Draw a new original learning picture for the word "jam" in a SUMMER CAMP listening and reading activity. Subject: One clear jar of bright berry jam with a spoon lifting a small sticky blob; blank lid and no label. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / jug (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ec4667bc-195f-4cdf-a1c9-6589d43f9900.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\jug-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\jug-v1.webp
+Exact prompt: Draw a new original learning picture for the word "jug" in a SUMMER CAMP listening and reading activity. Subject: One large cream camp water jug with a clear pouring spout and handle, a small blue water reflection at its open rim. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / log (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-3107968c-f213-4a0d-9ebe-82dc6f7b7089.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\log-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\log-v1.webp
+Exact prompt: Draw a new original learning picture for the word "log" in a SUMMER CAMP listening and reading activity. Subject: One thick cut tree log with bark and visible growth rings on its round end, lying on a small woodland patch. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / map (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-658cd247-e410-4aa5-b446-f0b06d131088.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\map-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\map-v1.webp
+Exact prompt: Draw a new original learning picture for the word "map" in a SUMMER CAMP listening and reading activity. Subject: One unfolded paper camp map showing a simple winding trail, lake shapes and a compass arrow, with no lettering or numbers. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / mat (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-5fe23c2f-0514-4de5-aabb-7765280fdfa2.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\mat-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\mat-v1.webp
+Exact prompt: Draw a new original learning picture for the word "mat" in a SUMMER CAMP listening and reading activity. Subject: One flat rectangular coir cabin doormat with a simple border on a small wooden floor patch; no writing or boots. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / mug (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-50a2a081-9df6-4e3d-8680-61e8f5204482.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\mug-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\mug-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\ball-v1.webp
+Exact prompt: Draw a new original learning picture for the word "mug" in a SUMMER CAMP listening and reading activity. Subject: One warm orange camp drinking mug with one large handle, upright, simple blank surface and no writing; no other containers. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / net (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-c750792f-273b-4a97-ab95-62a25a32fa2e.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\net-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\net-v1.webp
+Exact prompt: Draw a new original learning picture for the word "net" in a SUMMER CAMP listening and reading activity. Subject: One butterfly-style camp study net with a long wooden handle and open pale mesh hoop; no insects inside. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / pan (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-75f78349-3ff8-48d8-9140-74efdf1a1e9a.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\pan-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\pan-v1.webp
+Exact prompt: Draw a new original learning picture for the word "pan" in a SUMMER CAMP listening and reading activity. Subject: One shallow black camp frying pan with one long handle, shown from above at a slight angle; no food or other utensils. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / peg (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-27a133dd-dfe3-4fae-af7e-847facc19a4a.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\peg-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\peg-v1.webp
+Exact prompt: Draw a new original learning picture for the word "peg" in a SUMMER CAMP listening and reading activity. Subject: One short wooden tent peg pushed partly into grass, with one taut tent cord hooked to it; no complete tent. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / plug (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-403d9caa-d602-430c-bed4-e979486f01e7.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\plug-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\plug-v1.webp
+Exact prompt: Draw a new original learning picture for the word "plug" in a SUMMER CAMP listening and reading activity. Subject: One dark rubber washbasin drain plug with a loop handle and short chain, shown beside a small circular drain rim, no writing. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / pot (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ef4139a1-b520-4985-a635-dee82c30021f.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\pot-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\pot-v1.webp
+Exact prompt: Draw a new original learning picture for the word "pot" in a SUMMER CAMP listening and reading activity. Subject: One deep silver camp cooking pot with two short side handles and a lid tilted beside its rim; no food or flame. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / rod (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ab21c618-6642-4294-a3ee-9767b023fd7f.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\rod-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\rod-v1.webp
+Exact prompt: Draw a new original learning picture for the word "rod" in a SUMMER CAMP listening and reading activity. Subject: One simple fishing rod with a reel and visible thin line, shown diagonally, no fish or people. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / skip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ff4be466-2652-4f38-9bd8-364f6489dd7b.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\skip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\skip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "skip" in a SUMMER CAMP listening and reading activity. Subject: One cheerful camper holding both handles of a turning skipping rope and jumping over it on a small grass patch, full body and rope visible. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / slug (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-618e82d6-29a4-4d77-b42c-f4df9202b5d7.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\slug-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\slug-v1.webp
+Exact prompt: Draw a new original learning picture for the word "slug" in a SUMMER CAMP listening and reading activity. Subject: One long brown shell-free garden slug with two antennae and a tiny glistening trail, whole body visible on a small leaf. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / snap (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-45ed29ac-65ce-44b7-85ec-5692808d86d5.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\snap-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\snap-v1.webp
+Exact prompt: Draw a new original learning picture for the word "snap" in a SUMMER CAMP listening and reading activity. Subject: Two child hands snapping a small dry fallen stick into two pieces, a clean split and short crack motion accents, no injuries. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / spin (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-320f3789-7d51-4dac-ba6a-b5d6a192cd69.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\spin-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\spin-v1.webp
+Exact prompt: Draw a new original learning picture for the word "spin" in a SUMMER CAMP listening and reading activity. Subject: One cheerful fully clothed camper turning round in place with arms out, a clear curved motion arrow around their feet on a grass patch. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / spot (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-49766337-68cd-4ee0-9a1e-dd34c17c4d3d.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\spot-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\spot-v1.webp
+Exact prompt: Draw a new original learning picture for the word "spot" in a SUMMER CAMP listening and reading activity. Subject: One pale pebble with exactly one prominent round dark spot on its front face, close-up and no other marks. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / step (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a925494e-9be5-4d5c-a60c-d9e541de4cd4.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\step-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\step-v1.webp
+Exact prompt: Draw a new original learning picture for the word "step" in a SUMMER CAMP listening and reading activity. Subject: One single wooden step leading up to the lower edge of a camp cabin doorway, step dominates the compact picture. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / swim (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-cfea4e09-b69d-4ae2-9a51-f634549c0134.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\swim-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\swim-v1.webp
+Exact prompt: Draw a new original learning picture for the word "swim" in a SUMMER CAMP listening and reading activity. Subject: One cheerful camper swimming with a buoyancy vest in calm lake water, arms making a clear swimming stroke, a small distant adult lifeguard cue. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / twig (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-cd49d30e-aef7-4564-8f12-aaa1ab264278.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\twig-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\twig-v1.webp
+Exact prompt: Draw a new original learning picture for the word "twig" in a SUMMER CAMP listening and reading activity. Subject: One thin forked brown tree twig with a few tiny buds, entire slender branch visible, no log or leaves around it. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / zip (picture)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-a48339d5-c83d-4e89-9941-0036f5b25083.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\zip-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\pictures\zip-v1.webp
+Exact prompt: Draw a new original learning picture for the word "zip" in a SUMMER CAMP listening and reading activity. Subject: Close-up of a large orange bag zipper with two visible rows of interlocking teeth and a central pull tab; only a small fabric panel shown. Premium rounded 3D animated family-film illustration, kind natural expressions when a person is present, natural correct hands/anatomy, vivid warm forest-green and orange accents, soft tactile materials and bright studio lighting. One unmistakable primary object or action, large readable silhouette at picture-card size. Center the entire subject with a small margin; use only a compact ground patch if needed. Real transparent alpha background. No words, letters, numbers, captions, labels, brands, logos, soccer motifs, footballs or watermark. Avoid unrelated props or another target object competing with the main subject.
+
+camp / ball-box (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-78dedeb6-2505-40a1-92d0-abd4b78ff244.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\ball-box-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\ball-box-v1.webp
+Exact prompt: Draw an open sturdy cardboard box holding a few colorful handled camp mugs at its top, forest-green reinforced corners. Three-quarter view with a large broad unobstructed tan FRONT SIDE facing the viewer, completely blank so the activity can overlay a quantity. One compact box only, all contents inside the rim, no loose items around it, entire object within frame with margin. Premium rounded 3D animated family-film classroom style, tactile materials, bright soft studio light, clear recognizable silhouette. Real transparent alpha background, no floor, words, letters, numbers, labels, branding, footballs, logos or watermark.
+
+camp / rain (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-c674e19e-8388-4ed1-9e2c-95bd202f340a.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\rain-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\rain-v1.webp
+Exact prompt: Draw a new original illustrated setting for the camp children's outdoor-adventure reading activity. Subject: The same welcoming summer campsite in gentle rain, children in bright raincoats beside an adult counsellor under the wooden hut porch, wet paths, visible raindrops and soft grey clouds, cosy rather than frightening, no lightning, no writing. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+camp / scene1 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-00f28813-816e-4a20-a49b-9d893ba4a09c.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\scene1-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\scene1-v1.webp
+Exact prompt: Draw a new original illustrated setting for the camp children's outdoor-adventure reading activity. Subject: A cheerful summer campsite beside a forest lake, cosy wooden hut, green canvas tents, simple picnic space and clear walking paths, diverse campers and an adult counsellor in the middle distance; no lettering. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+camp / scene2 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-e36ce13e-6f65-4beb-8df9-301f95ab337e.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\scene2-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\scene2-v1.webp
+Exact prompt: Draw a new original illustrated setting for the camp children's outdoor-adventure reading activity. Subject: A peaceful shallow lakeside study area at summer camp, reed beds, small wooden jetty, smooth stones and a canoe on shore, campers with an adult guide looking at pond life; no written signs. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+camp / scene3 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-786cf156-30dd-43f3-8ae9-e1111715e76d.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\camp\scene3-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\scene3-v1.webp
+Exact prompt: Draw a new original illustrated setting for the camp children's outdoor-adventure reading activity. Subject: A bright welcoming camp cabin with simple wooden beds, neat storage hooks, a camp kitchenette and a porch opening toward pine trees, a quiet friendly camp dog by the doorway; no words or labels. Premium rounded 3D animated family-film classroom style matching cheerful tactile learning pictures, natural anatomy, expressive kind faces if people are present, rich colors and soft bright lighting. Landscape 3:2 composition, recognizable setting fills the whole scene, clear foreground and background, no large blank sky or empty copy space. Appropriate gear and supervision for the activity. Full illustration background. No words, letters, numbers, captions, written signage, brands, footballs, soccer motifs, logos or watermark.
+
+common / adventure-truck (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-e7b34f68-89ce-49a9-a6e6-f1d3bcb5c52e.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\adventure-truck-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\adventure-truck-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\adventure-truck-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\adventure-truck-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\adventure-truck-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One friendly outdoor-equipment delivery truck, emerald-teal cab at LEFT with orange trim, roomy empty open cargo bed extending RIGHT, blank light side panel, big black wheels, visible headlights, three-quarter side/front view. No cargo boxes, people, loose objects, football emblems, lettering, numbers, brands or face. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / headphones (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-2259254d-1ac8-4aec-b77b-7a4eb44d2da5.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\headphones-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\headphones-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\headphones-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\headphones-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\headphones-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful pair of over-ear headphones, teal headband, orange ear cushions and cream highlights. Plain unbranded surfaces, no ball emblems or logos. Tilted three-quarter view, compact unmistakable listening icon. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / math-player-1 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-3eca9a55-eb56-4841-9cc2-f6a1c4dd4303.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\math-player-1-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\math-player-1-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\math-player-1-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\math-player-1-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\math-player-1-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful Black girl, about eight years old, curly hair in two puffs, teal outdoor shirt, tan knee-length shorts and sturdy orange walking shoes. Full body standing upright facing forward, empty hands at sides, feet visible. No items, balls, equipment, badges, numbers or emblems; the counting objects are added separately by an app. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / math-player-2 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-d426ffd5-6a33-46ee-a3b1-0a5095f421c7.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\math-player-2-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\math-player-2-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\math-player-2-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\math-player-2-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\math-player-2-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful East Asian boy, about eight years old, short dark hair, orange outdoor shirt, navy knee-length shorts and teal walking shoes. Full body standing upright facing forward, empty hands at sides, feet visible. No items, balls, equipment, badges, numbers or emblems; the counting objects are added separately by an app. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / math-player-3 (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-ea5b4e89-3940-4b28-8387-70bda6773ea6.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\math-player-3-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\math-player-3-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\math-player-3-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\math-player-3-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\math-player-3-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One cheerful light-brown-skinned girl, about eight years old, dark ponytail, lilac outdoor shirt, forest-green knee-length shorts and tan walking shoes. Full body standing upright facing forward, empty hands at sides, feet visible. No items, balls, equipment, badges, numbers or emblems; the counting objects are added separately by an app. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.
+
+common / trophy (theme)
+Mode: built-in image_gen
+Default generated source: C:\Users\anton\.codex\generated_images\01a1f5ef-cb21-7453-94a3-0e9bb1d92ea1\exec-f0f1164b-16af-4099-b70c-33fb003bd4ad.png
+Preserved original: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Illustrations-Nov22\common\trophy-original.png
+Saved web assets:
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\camp\assets\theme\trophy-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\scuba\assets\theme\trophy-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\bike\assets\theme\trophy-v1.webp
+  C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\Word-Adventures-Nov22\nature\assets\theme\trophy-v1.webp
+Exact prompt: Draw a new original asset for a children's outdoor-adventure reading and maths activity. Subject: One friendly golden five-point star reward badge with a small turquoise compass circle at its center. Rounded tactile 3D style, warm gold shine, clear star silhouette. No letters, numbers, trophy cup, sports equipment or logos. Premium rounded 3D animated family-film illustration, natural correct anatomy where applicable, kind expression, bright soft studio lighting and tactile materials. Entire subject centered with margin, large clear silhouette at small size. Real transparent alpha background; no floor unless essential. No words, writing, numbers, brands, logos, soccer motifs, footballs or watermark.

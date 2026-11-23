@@ -1,0 +1,581 @@
+{
+  "id": "nature",
+  "title": "Nature Conservation Area Visit",
+  "shortTitle": "Nature Words",
+  "wordTopic": "nature",
+  "setNames": [
+    "Forest trail",
+    "Pond life"
+  ],
+  "unit": {
+    "singular": "nut",
+    "plural": "nuts",
+    "shortPlural": "nuts",
+    "role": "visitor",
+    "rolePlural": "visitors",
+    "rewardPhrase": "an acorn",
+    "pictureWord": "nut"
+  },
+  "palette": {
+    "primary": "#376940",
+    "accent": "#d7ac45",
+    "background": "#eff7e8"
+  },
+  "core": [
+    {
+      "id": "set1",
+      "name": "Forest trail",
+      "words": [
+        {
+          "id": "fox",
+          "clue": "The red animal has a white-tipped bushy tail: a ___.",
+          "reason": "The red fox is the only red, bushy-tailed animal in this bank.",
+          "pictureSubject": "One adult red fox with a clearly white-tipped bushy tail, standing calmly on a small forest-floor patch, no cub or other animal."
+        },
+        {
+          "id": "log",
+          "clue": "The fallen tree trunk is a ___.",
+          "reason": "A fallen trunk rather than a thin twig or animal home.",
+          "pictureSubject": "One large fallen tree log with bark and a visible circular cut end, lying on a small woodland-floor patch, no animals or loose branches."
+        },
+        {
+          "id": "bug",
+          "clue": "A tiny six-legged insect is a ___.",
+          "reason": "The small insect, not a web or a larger animal.",
+          "pictureSubject": "One friendly red ladybird insect with six clear small legs and two antennae, large enough to see its shape, on a plain leaf without other insects."
+        },
+        {
+          "id": "web",
+          "clue": "A spider spins silk into a ___.",
+          "reason": "The silk structure made by a spider identifies web.",
+          "pictureSubject": "One delicate circular spider web stretched between two short forest twigs, tiny spider at the edge, the web is dominant and clearly outlined."
+        },
+        {
+          "id": "den",
+          "clue": "The fox's underground home is a ___.",
+          "reason": "The animal home is the den, not the fallen log.",
+          "pictureSubject": "One empty fox den entrance under tree roots in a small woodland bank, dark rounded opening and earthy tunnel edge, no fox or cub."
+        },
+        {
+          "id": "mud",
+          "clue": "The wet dirt beside the trail is ___.",
+          "reason": "The wet soil substance is mud.",
+          "pictureSubject": "One shallow brown muddy puddle beside a woodland trail, glossy wet dirt with no footprints or animals, a tiny fern at the edge."
+        },
+        {
+          "id": "sun",
+          "clue": "The bright round star lights the day: the ___.",
+          "reason": "The daytime star is distinct from every terrestrial object.",
+          "pictureSubject": "One bright golden sun with rounded clear rays above a small silhouette of woodland trees, no text or face."
+        },
+        {
+          "id": "net",
+          "clue": "The pond tool has a hoop and woven mesh: a ___.",
+          "reason": "The mesh pond-study tool identifies net.",
+          "pictureSubject": "One empty pond-study dip net with a circular hoop, fine mesh and wooden handle, resting at a ranger observation station, no captured wildlife."
+        },
+        {
+          "id": "bin",
+          "clue": "Litter goes in the park's rubbish ___.",
+          "reason": "The only rigid rubbish container in this bank.",
+          "pictureSubject": "One sturdy green lidded conservation-area rubbish bin, clear lid and opening, small recycle symbol allowed, forest path edge and no writing."
+        },
+        {
+          "id": "map",
+          "clue": "The paper drawing shows the reserve's paths: a ___.",
+          "reason": "A paper path drawing is a map.",
+          "pictureSubject": "One unfolded paper nature-reserve trail map with winding paths, a pond shape and tree symbols, no words, letters or numbers."
+        }
+      ]
+    },
+    {
+      "id": "set2",
+      "name": "Pond life",
+      "words": [
+        {
+          "id": "cub",
+          "clue": "A baby fox is a ___.",
+          "reason": "The age-specific animal name identifies cub; adult fox is in the other bank.",
+          "pictureSubject": "One very young red fox cub with a small fluffy body, large gentle eyes and tiny paws, sitting on a woodland patch, no adult fox."
+        },
+        {
+          "id": "dam",
+          "clue": "A beaver blocks a stream with a ___.",
+          "reason": "The stream barrier made by a beaver identifies dam.",
+          "pictureSubject": "One clear beaver dam made from interwoven sticks across a small stream, held-back water on one side and a gentle trickle below, no people or animals."
+        },
+        {
+          "id": "bat",
+          "clue": "The furry mammal with wings is a ___.",
+          "reason": "A winged mammal distinguishes bat from the other animals and plant parts.",
+          "pictureSubject": "One small friendly brown flying mammal bat with two clearly spread leathery wings, hanging from a short tree branch, never a sports bat."
+        },
+        {
+          "id": "bud",
+          "clue": "A flower that has not opened is a ___.",
+          "reason": "The unopened flower identifies bud rather than seed pod.",
+          "pictureSubject": "Close view of one tightly closed green-and-pink flower bud on a short stem, no open flowers and no seed pods."
+        },
+        {
+          "id": "sap",
+          "clue": "The sticky liquid from a tree is ___.",
+          "reason": "The tree liquid is sap, distinct from a solid seed or plant part.",
+          "pictureSubject": "Close view of amber tree sap forming a shiny thick drop on tree bark, a small bark patch only, no collecting container or people."
+        },
+        {
+          "id": "fin",
+          "clue": "A fish steers with a flat body part called a ___.",
+          "reason": "The named fish appendage is a fin.",
+          "pictureSubject": "Close view of one small freshwater fish with its side fin clearly extended and gently highlighted by a simple shape, no text or labels."
+        },
+        {
+          "id": "nut",
+          "clue": "The hard acorn is a ___.",
+          "reason": "Acorn identifies nut, distinct from a seed pod or bud.",
+          "pictureSubject": "One large brown acorn nut with its textured cap, isolated on a small oak-leaf patch, no other seeds or nuts."
+        },
+        {
+          "id": "pod",
+          "clue": "A plant's seed case is a ___.",
+          "reason": "A botanical seed case identifies pod, not a cloth bag.",
+          "pictureSubject": "One dry split seed pod with several seeds visible inside, attached to a short dried stalk, no bag, flowers or other plant parts."
+        },
+        {
+          "id": "bag",
+          "clue": "The reusable litter sack is a ___.",
+          "reason": "A flexible reusable sack distinguishes bag from the small string label.",
+          "pictureSubject": "One open green reusable cleanup bag with soft flexible sides and two handles, empty and isolated on a tiny visitor-trail patch, no tools or rubbish inside."
+        },
+        {
+          "id": "tag",
+          "clue": "A small label tied on a string is a ___.",
+          "reason": "The tied label identifies tag rather than the flexible bag.",
+          "pictureSubject": "One plain cream tree-study label tag on a short loop of string tied around a narrow twig, entirely blank with no writing."
+        }
+      ]
+    }
+  ],
+  "blendTargets": [
+    [
+      "frog",
+      "slug",
+      "twig",
+      "stem",
+      "grass",
+      "plant",
+      "grub",
+      "clip",
+      "drip",
+      "spot"
+    ],
+    [
+      "track",
+      "print",
+      "sniff",
+      "brim",
+      "drop",
+      "step",
+      "clap",
+      "skip",
+      "flat",
+      "swim"
+    ]
+  ],
+  "blendClues": {
+    "set1": [
+      [
+        "The hopping pond animal croaks: a ___.",
+        "The soft animal has no legs or shell: a ___.",
+        "A small thin wooden branch is a ___.",
+        "The upright stalk holds the leaves: a ___.",
+        "Many green blades make a carpet of ___.",
+        "Put a seed in soil: ___ it.",
+        "The C-shaped insect larva is a ___.",
+        "The metal pinch fastener on the bag is a ___.",
+        "A slow leak lets water ___.",
+        "A single round mark on the leaf is a ___."
+      ],
+      [
+        "A path left by moving animal feet is a ___.",
+        "The leaf stamp on paper makes a ___.",
+        "The leashed dog uses its nose to ___.",
+        "The flat front edge of a cap is its ___.",
+        "Let the wrapper fall into the litter bag: ___ it.",
+        "One level of the wooden stairway is a ___.",
+        "Bring your palms together to applaud: ___.",
+        "Move with a step and a hop: ___.",
+        "The stone has a level top; it is ___.",
+        "Move through pond water like the duck: ___."
+      ]
+    ],
+    "set2": [
+      [
+        "A green pond animal hops and croaks: a ___.",
+        "The shell-free crawling animal has no legs: a ___.",
+        "A little woody branch is a ___.",
+        "The stalk below the leaves is the ___.",
+        "The green blade carpet on the ground is ___.",
+        "Place a seed in soil to grow: ___ it.",
+        "A curled insect larva with tiny legs is a ___.",
+        "The small metal bag fastener is a ___.",
+        "Fall from the leaf drop by drop: ___.",
+        "One round dot on the leaf is a ___."
+      ],
+      [
+        "The trail of an animal's moving feet is its ___.",
+        "Stamping a leaf onto paper leaves a ___.",
+        "Smell the trail with your nose: ___.",
+        "The projecting front edge of the sun hat is its ___.",
+        "Release the wrapper above the bag: ___ it.",
+        "A single stair is one ___.",
+        "To applaud with your hands, ___.",
+        "To move with little steps and hops, ___.",
+        "The smooth-topped stone is ___.",
+        "The duck moves through water; it can ___."
+      ]
+    ]
+  },
+  "blendPictures": {
+    "frog": "One green pond frog with broad back legs and clear webbed feet sitting on a small damp stone, no other animals.",
+    "slug": "One smooth brown garden slug with two visible feelers, no shell and no legs, on a small moist forest-floor patch.",
+    "twig": "One short thin forked woody twig isolated on a small woodland-floor patch, no leaves hiding its outline.",
+    "stem": "Close view of one green plant stalk between soil and two leaves, the upright stem clearly highlighted by a simple curved shape, not a whole potted plant.",
+    "grass": "One compact tufted carpet patch of many upright green grass blades, no flowers or separate potted plant.",
+    "plant": "One complete young broad-leaf seedling with roots visible in a small soil cross-section and several leaves above, clearly a whole plant.",
+    "grub": "One curled cream C-shaped beetle grub with a brown head and six tiny front legs, isolated on dark soil, clearly different from a legless slug.",
+    "clip": "One small silver metal pinch clip holding the top of a reusable field bag, clear clamp shape, no words or extra equipment.",
+    "drip": "Close view of a leaf tip with three clear water drops falling separately below it into a tiny puddle, no people.",
+    "spot": "Close view of one green leaf with a single bold round brown spot, the round mark is dominant, no extra spots or labels.",
+    "track": "A line of several small animal pawprints continuing along a woodland mud patch, clear direction of travel, no animal or craft paper.",
+    "print": "One clear green leaf-stamp print on a small sheet of white craft paper, original leaf beside its impression at the visitor-centre craft table, no letters or pawprints.",
+    "sniff": "One friendly dog on a clearly visible lead lowering its nose to sniff grass beside a designated reserve path, no loose dog or wildlife interaction.",
+    "brim": "Close view of a khaki sun hat with its projecting front brim clearly highlighted by a simple curved shape, woodland visitor-centre setting, no writing.",
+    "drop": "One empty snack wrapper falling from an open hand into a reusable cleanup bag, simple downward motion arrow, no litter left on the ground.",
+    "step": "One broad wooden stair step at a visitor-centre doorway, strong single raised level and woodland edge, no writing.",
+    "clap": "Close view of a child visitor bringing palms together in applause after a ranger talk inside the visitor centre, friendly adult ranger in soft background, no wildlife beside them.",
+    "skip": "One cheerful child taking a light step-and-hop skip on a wide designated open-meadow path, adult guide in the distance, no fragile habitat or boardwalk edge.",
+    "flat": "One broad smooth flat-topped grey stone beside a reserve pond, low side view clearly shows its level top, no people or writing.",
+    "swim": "One duck actively swimming across a small patch of pond water with a clear wake behind it, no other animals or people."
+  },
+  "phonics": {
+    "first1": [
+      "fox",
+      "log",
+      "bug",
+      "web",
+      "den",
+      "mud"
+    ],
+    "first2": [
+      "cub",
+      "dam",
+      "bat",
+      "nut",
+      "pod",
+      "tag"
+    ],
+    "initial": [
+      "bag",
+      "cub",
+      "fin",
+      "log",
+      "pod",
+      "tag"
+    ],
+    "vowels": [
+      "map",
+      "net",
+      "fin",
+      "fox",
+      "cub"
+    ],
+    "last": [
+      "mud",
+      "bat",
+      "den",
+      "web",
+      "log",
+      "map"
+    ],
+    "blends": [
+      "frog",
+      "slug",
+      "twig",
+      "stem",
+      "grass",
+      "plant"
+    ],
+    "blends2": [
+      "track",
+      "print",
+      "sniff",
+      "brim",
+      "drop",
+      "clap"
+    ]
+  },
+  "initialIds": [
+    "bag",
+    "cub",
+    "fin",
+    "log",
+    "pod",
+    "tag",
+    "fox",
+    "net",
+    "bin",
+    "map"
+  ],
+  "initialClues": {
+    "set1": [
+      "The flexible reusable litter sack is a ___.",
+      "The special name for a baby fox is a ___.",
+      "A fish steers with its ___.",
+      "The fallen tree trunk is a ___.",
+      "A plant's dry seed case is a ___.",
+      "The blank label tied on string is a ___.",
+      "The adult red animal has a white-tipped tail: a ___.",
+      "The pond-study tool has a hoop and mesh: a ___.",
+      "The rigid lidded rubbish container is a ___.",
+      "The paper drawing of reserve paths is a ___."
+    ],
+    "set2": [
+      "Carry collected litter in the flexible ___.",
+      "A young fox has the special name ___.",
+      "The flat appendage on the fish is a ___.",
+      "A fallen woodland trunk is called a ___.",
+      "The dry plant case holds seeds: a ___.",
+      "The little string-tied label is a ___.",
+      "An adult red animal with a white tail tip is a ___.",
+      "The empty dip tool has woven mesh: a ___.",
+      "Park rubbish goes into this rigid lidded ___.",
+      "Find the pond and trail on the paper ___."
+    ]
+  },
+  "sounds": {
+    "fox": [
+      "f",
+      "ɑ",
+      "k",
+      "s"
+    ],
+    "log": [
+      "l",
+      "ɑ",
+      "ɡ"
+    ],
+    "bug": [
+      "b",
+      "ʌ",
+      "ɡ"
+    ],
+    "web": [
+      "w",
+      "ɛ",
+      "b"
+    ],
+    "den": [
+      "d",
+      "ɛ",
+      "n"
+    ],
+    "mud": [
+      "m",
+      "ʌ",
+      "d"
+    ],
+    "sun": [
+      "s",
+      "ʌ",
+      "n"
+    ],
+    "net": [
+      "n",
+      "ɛ",
+      "t"
+    ],
+    "bin": [
+      "b",
+      "ɪ",
+      "n"
+    ],
+    "map": [
+      "m",
+      "æ",
+      "p"
+    ],
+    "cub": [
+      "k",
+      "ʌ",
+      "b"
+    ],
+    "dam": [
+      "d",
+      "æ",
+      "m"
+    ],
+    "bat": [
+      "b",
+      "æ",
+      "t"
+    ],
+    "bud": [
+      "b",
+      "ʌ",
+      "d"
+    ],
+    "sap": [
+      "s",
+      "æ",
+      "p"
+    ],
+    "fin": [
+      "f",
+      "ɪ",
+      "n"
+    ],
+    "nut": [
+      "n",
+      "ʌ",
+      "t"
+    ],
+    "pod": [
+      "p",
+      "ɑ",
+      "d"
+    ],
+    "bag": [
+      "b",
+      "æ",
+      "ɡ"
+    ],
+    "tag": [
+      "t",
+      "æ",
+      "ɡ"
+    ],
+    "frog": [
+      "f",
+      "ɹ",
+      "ɑ",
+      "ɡ"
+    ],
+    "slug": [
+      "s",
+      "l",
+      "ʌ",
+      "ɡ"
+    ],
+    "twig": [
+      "t",
+      "w",
+      "ɪ",
+      "ɡ"
+    ],
+    "stem": [
+      "s",
+      "t",
+      "ɛ",
+      "m"
+    ],
+    "grass": [
+      "ɡ",
+      "ɹ",
+      "æ",
+      "s"
+    ],
+    "plant": [
+      "p",
+      "l",
+      "æ",
+      "n",
+      "t"
+    ],
+    "track": [
+      "t",
+      "ɹ",
+      "æ",
+      "k"
+    ],
+    "print": [
+      "p",
+      "ɹ",
+      "ɪ",
+      "n",
+      "t"
+    ],
+    "sniff": [
+      "s",
+      "n",
+      "ɪ",
+      "f"
+    ],
+    "brim": [
+      "b",
+      "ɹ",
+      "ɪ",
+      "m"
+    ],
+    "drop": [
+      "d",
+      "ɹ",
+      "ɑ",
+      "p"
+    ],
+    "clap": [
+      "k",
+      "l",
+      "æ",
+      "p"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "scene1",
+      "title": "Visitor trail",
+      "words": [
+        "map",
+        "sun",
+        "bag",
+        "bin",
+        "tag",
+        "log",
+        "web",
+        "mud"
+      ],
+      "sceneSubject": "A welcoming conservation-area visitor trail through mixed woodland, an adult ranger with three diverse child visitors staying on the designated path, a simple map stand, rubbish bin and fallen log beside the path, open sunny sky, no wildlife feeding or written labels."
+    },
+    {
+      "id": "scene2",
+      "title": "Pond",
+      "words": [
+        "dam",
+        "fin",
+        "frog",
+        "net",
+        "grass",
+        "plant",
+        "drip",
+        "flat"
+      ],
+      "sceneSubject": "A peaceful conservation pond beside a wooden observation boardwalk, an adult ranger and diverse children observing from the boardwalk, reeds, a small beaver dam, empty pond-study nets at a station and a duck on the water, no captured animals or text."
+    },
+    {
+      "id": "scene3",
+      "title": "Woodland",
+      "words": [
+        "fox",
+        "cub",
+        "bat",
+        "den",
+        "bug",
+        "bud",
+        "nut",
+        "pod"
+      ],
+      "sceneSubject": "A rich woodland conservation habitat with oak trees, a den bank, wildflower buds, seed pods and a fallen branch, a fox family and small bat visible at a respectful distance, diverse child visitors and adult ranger remain on the designated path, no handling or feeding wildlife, no words."
+    }
+  ],
+  "coverSubject": "A cheerful diverse group of three child visitors with an adult ranger explores a nature conservation area from a wide wooden pond boardwalk; woodland trees, reeds and a duck on the pond surround them, a red fox is visible at a respectful distance on the far bank, binoculars and a field bag, no feeding or handling wildlife and no written labels.",
+  "rainSubject": "The conservation-area visitor trail during a gentle rainy day, an adult ranger and diverse children in waterproof jackets and boots stay on the designated path, clear rain drops, green leaves, puddles and a visitor-centre porch, wildlife left undisturbed, no words."
+}

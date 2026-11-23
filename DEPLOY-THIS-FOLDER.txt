@@ -1,0 +1,17 @@
+UPLOAD THIS WHOLE FOLDER TO NETLIFY
+
+Folder: Word-Adventures-Nov22-Deployment
+
+Keep index.html directly inside this folder. Upload the whole folder, not only the assets folder or one of the activity subfolders.
+
+The root index.html opens all five activities:
+- Soccer / World Cup
+- Summer Camp
+- Scuba
+- City Bike Ride
+- Nature Conservation Area Visit
+
+Keep assets, soccer, camp, scuba, bike and nature beside the root index.html.
+Publish directory: .
+No build command. No ZIP needed.
+Teacher audit / preview PIN: 259.

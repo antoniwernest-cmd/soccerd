@@ -1,0 +1,1 @@
+window.CVC_THEME={"id":"nature","title":"Nature Conservation Area Visit","shortTitle":"Nature Words","wordTopic":"nature","unit":{"singular":"nut","plural":"nuts","shortPlural":"nuts","role":"visitor","rolePlural":"visitors","rewardPhrase":"an acorn","pictureWord":"nut"},"palette":{"primary":"#376940","accent":"#d7ac45","background":"#eff7e8"}};

@@ -1,0 +1,537 @@
+{
+  "lessonId": "soccer-20261121",
+  "core": [
+    {
+      "id": "set1",
+      "name": "Soccer practice",
+      "hint": "net · cup · kit · cap · fan · bag · bib · pad · jet · hit",
+      "words": [
+        [
+          "net",
+          "The goal's woven mesh is a ___.",
+          "Woven mesh distinguishes the goal net from other equipment."
+        ],
+        [
+          "cup",
+          "The winner lifts the gold prize ___.",
+          "The gold prize cup, not a kit container."
+        ],
+        [
+          "kit",
+          "A shirt and shorts together make a ___.",
+          "An entire outfit, rather than a container or separate bib."
+        ],
+        [
+          "cap",
+          "A ___ has a brim above the player's eyes.",
+          "Only cap is headwear with a brim."
+        ],
+        [
+          "fan",
+          "A ___ cheers for the team from the stands.",
+          "Only fan names a human supporter in this bank."
+        ],
+        [
+          "bag",
+          "The zipped ___ holds the team's kit.",
+          "The zipped container, rather than the outfit inside it."
+        ],
+        [
+          "bib",
+          "The mesh training vest is called a ___.",
+          "A sleeveless training vest, distinct from a whole kit."
+        ],
+        [
+          "pad",
+          "The keeper's foam knee protector is a ___.",
+          "Foam protection rather than clothing or a container."
+        ],
+        [
+          "jet",
+          "The team flies to the cup in a passenger ___.",
+          "The only aircraft word in the bank."
+        ],
+        [
+          "hit",
+          "Kick the ball to ___ the bottle targets.",
+          "Soccer-ball bowling. No competing contact verb in this bank."
+        ]
+      ]
+    },
+    {
+      "id": "set2",
+      "name": "Stadium day",
+      "hint": "van · sit · run · hop · tap · leg · mud · rag · zip · dog",
+      "words": [
+        [
+          "van",
+          "The TV crew drives a broadcast ___.",
+          "A wheeled road vehicle, rather than another item."
+        ],
+        [
+          "sit",
+          "Keep your bottom on the bench: ___.",
+          "Seated position rather than another movement."
+        ],
+        [
+          "run",
+          "Move fast on alternate feet: ___.",
+          "Alternate feet excludes hopping."
+        ],
+        [
+          "hop",
+          "Keep one foot up and ___ on the other.",
+          "Only one foot is used repeatedly."
+        ],
+        [
+          "tap",
+          "A light touch with your boot is a ___.",
+          "A gentle boot touch; hit is in the other bank."
+        ],
+        [
+          "leg",
+          "The body part from hip to foot is a ___.",
+          "The only body part in this bank."
+        ],
+        [
+          "mud",
+          "Wet dirt on the soccer pitch is ___.",
+          "The substance is wet dirt, not a cloth."
+        ],
+        [
+          "rag",
+          "A torn cleaning cloth is a ___.",
+          "Torn cleaning material rather than a wearable label."
+        ],
+        [
+          "zip",
+          "Two rows of teeth close the bag with a ___.",
+          "The zipper mechanism, not the bag itself."
+        ],
+        [
+          "dog",
+          "The pet that barks is a ___.",
+          "The only animal noun in this bank."
+        ]
+      ]
+    }
+  ],
+  "blendTargets": [
+    [
+      "flag",
+      "club",
+      "grass",
+      "press",
+      "drip",
+      "drum",
+      "trap",
+      "skip",
+      "clap",
+      "spin"
+    ],
+    [
+      "step",
+      "grip",
+      "stop",
+      "drop",
+      "spot",
+      "sniff",
+      "skid",
+      "trip",
+      "grin",
+      "trim"
+    ]
+  ],
+  "blendClues": {
+    "set1": [
+      [
+        "A cloth triangle marks a corner: a ___.",
+        "The soccer team belongs to a ___.",
+        "The pitch has a living green carpet of ___.",
+        "The term for closing down an opponent is ___.",
+        "Rain falls drop by drop from the net: ___.",
+        "The round fan instrument uses sticks: a ___.",
+        "A first touch that controls the ball is a ___.",
+        "Jump over the turning warm-up rope: ___.",
+        "Bring palms together to applaud: ___.",
+        "The dog turns round in one place: ___."
+      ],
+      [
+        "One stair in the stadium is a ___.",
+        "The keeper's firm hold is a ___.",
+        "To end all movement, ___.",
+        "Let the ball fall from your mouth: ___ it.",
+        "The penalty ___ is a white pitch mark.",
+        "Use your nose to smell the ball: ___.",
+        "Slide over turf without rolling: ___.",
+        "Catch a foot and stumble: ___.",
+        "A wide smile after a goal is a ___.",
+        "Cut the pitch grass shorter: ___ it."
+      ]
+    ],
+    "set2": [
+      [
+        "The corner pole holds a cloth ___.",
+        "A soccer members group is a ___.",
+        "The living green blades on the pitch are ___.",
+        "Close down the ball carrier: ___.",
+        "Fall in small drops from the wet net: ___.",
+        "Fans beat this round instrument: a ___.",
+        "A controlled first touch is called a ___.",
+        "To jump a turning rope in warm-ups, ___.",
+        "To applaud with your hands, ___.",
+        "Turn round like the dog and ball: ___."
+      ],
+      [
+        "Each single stadium stair is a ___.",
+        "A firm glove hold on the ball is a ___.",
+        "Become completely still: ___.",
+        "Release the ball from your mouth: ___ it.",
+        "The white penalty mark is a ___.",
+        "Smell the ball with your nose: ___.",
+        "Slide with a flat boot, without rolling: ___.",
+        "Stumble when your foot catches: ___.",
+        "The name for a wide happy smile is a ___.",
+        "Make the pitch grass shorter: ___ it."
+      ]
+    ]
+  },
+  "initialIds": [
+    "bag",
+    "cap",
+    "fan",
+    "net",
+    "run",
+    "zip",
+    "cup",
+    "kit",
+    "hit",
+    "dog"
+  ],
+  "initialClues": {
+    "set1": [
+      "The team's zipped kit container is a ___.",
+      "The headwear with a brim is a ___.",
+      "A supporter cheering in the stands is a ___.",
+      "The goal's woven mesh is a ___.",
+      "Move fast using alternate feet: ___.",
+      "Close the two rows of bag teeth with a ___.",
+      "The winner's gold prize has handles: a ___.",
+      "A soccer shirt and shorts form a ___.",
+      "Kick the ball to ___ the bottle targets.",
+      "The pet barks and chases the ball: a ___."
+    ],
+    "set2": [
+      "This duffel container holds kit: a ___.",
+      "A brim shades your eyes on this ___.",
+      "The person cheering for the team is a ___.",
+      "The goal holds the ball in its woven ___.",
+      "To race on alternate feet, ___.",
+      "The toothed bag fastener is a ___.",
+      "The team wins the gold prize ___.",
+      "A full shirt-and-shorts outfit is a ___.",
+      "The kicked ball will ___ the bottle targets.",
+      "This pet barks and chases a ball: a ___."
+    ]
+  },
+  "phonics": {
+    "first1": [
+      "net",
+      "cup",
+      "kit",
+      "fan",
+      "bag",
+      "hit"
+    ],
+    "first2": [
+      "sit",
+      "run",
+      "hop",
+      "tap",
+      "leg",
+      "zip"
+    ],
+    "initial": [
+      "bag",
+      "cap",
+      "fan",
+      "net",
+      "run",
+      "zip"
+    ],
+    "vowels": [
+      "cap",
+      "net",
+      "kit",
+      "dog",
+      "cup"
+    ],
+    "last": [
+      "cap",
+      "net",
+      "fan",
+      "bag",
+      "bib",
+      "pad"
+    ],
+    "blends": [
+      "flag",
+      "club",
+      "grass",
+      "press",
+      "trap",
+      "skip"
+    ],
+    "blends2": [
+      "drum",
+      "clap",
+      "spin",
+      "step",
+      "sniff",
+      "grip"
+    ]
+  },
+  "sounds": {
+    "net": [
+      "n",
+      "ɛ",
+      "t"
+    ],
+    "cup": [
+      "k",
+      "ʌ",
+      "p"
+    ],
+    "kit": [
+      "k",
+      "ɪ",
+      "t"
+    ],
+    "cap": [
+      "k",
+      "æ",
+      "p"
+    ],
+    "fan": [
+      "f",
+      "æ",
+      "n"
+    ],
+    "bag": [
+      "b",
+      "æ",
+      "ɡ"
+    ],
+    "bib": [
+      "b",
+      "ɪ",
+      "b"
+    ],
+    "pad": [
+      "p",
+      "æ",
+      "d"
+    ],
+    "hit": [
+      "h",
+      "ɪ",
+      "t"
+    ],
+    "sit": [
+      "s",
+      "ɪ",
+      "t"
+    ],
+    "run": [
+      "ɹ",
+      "ʌ",
+      "n"
+    ],
+    "hop": [
+      "h",
+      "ɑ",
+      "p"
+    ],
+    "tap": [
+      "t",
+      "æ",
+      "p"
+    ],
+    "leg": [
+      "l",
+      "ɛ",
+      "ɡ"
+    ],
+    "mud": [
+      "m",
+      "ʌ",
+      "d"
+    ],
+    "rag": [
+      "ɹ",
+      "æ",
+      "ɡ"
+    ],
+    "zip": [
+      "z",
+      "ɪ",
+      "p"
+    ],
+    "dog": [
+      "d",
+      "ɑ",
+      "ɡ"
+    ],
+    "flag": [
+      "f",
+      "l",
+      "æ",
+      "ɡ"
+    ],
+    "club": [
+      "k",
+      "l",
+      "ʌ",
+      "b"
+    ],
+    "grass": [
+      "ɡ",
+      "ɹ",
+      "æ",
+      "s"
+    ],
+    "press": [
+      "p",
+      "ɹ",
+      "ɛ",
+      "s"
+    ],
+    "trap": [
+      "t",
+      "ɹ",
+      "æ",
+      "p"
+    ],
+    "skip": [
+      "s",
+      "k",
+      "ɪ",
+      "p"
+    ],
+    "drum": [
+      "d",
+      "ɹ",
+      "ʌ",
+      "m"
+    ],
+    "clap": [
+      "k",
+      "l",
+      "æ",
+      "p"
+    ],
+    "spin": [
+      "s",
+      "p",
+      "ɪ",
+      "n"
+    ],
+    "step": [
+      "s",
+      "t",
+      "ɛ",
+      "p"
+    ],
+    "sniff": [
+      "s",
+      "n",
+      "ɪ",
+      "f"
+    ],
+    "grip": [
+      "ɡ",
+      "ɹ",
+      "ɪ",
+      "p"
+    ],
+    "jet": [
+      "dʒ",
+      "ɛ",
+      "t"
+    ],
+    "van": [
+      "v",
+      "æ",
+      "n"
+    ]
+  },
+  "fieldWords": [
+    "net",
+    "flag",
+    "spot",
+    "bib",
+    "bag",
+    "cup",
+    "dog",
+    "hit"
+  ],
+  "themes": [
+    "Soccer practice",
+    "Match day",
+    "Kids at the soccer stadium",
+    "Soccer exercises",
+    "Soccer-ball bowling",
+    "Dog and soccer-ball tricks",
+    "TV crew",
+    "World Cup airport",
+    "Rainy soccer day",
+    "Team picture",
+    "Soccer parachute game",
+    "The Big Bear mascot",
+    "Soccer on a big boat"
+  ],
+  "diagramScenes": [
+    {
+      "id": "stadium",
+      "title": "Stadium",
+      "words": [
+        "net",
+        "flag",
+        "spot",
+        "bib",
+        "bag",
+        "cup",
+        "dog",
+        "hit"
+      ]
+    },
+    {
+      "id": "airport",
+      "title": "Team airport",
+      "words": [
+        "jet",
+        "van",
+        "bag",
+        "kit",
+        "cap",
+        "cup",
+        "fan",
+        "dog"
+      ]
+    },
+    {
+      "id": "boat",
+      "title": "Big boat",
+      "words": [
+        "net",
+        "flag",
+        "kit",
+        "bag",
+        "cup",
+        "dog",
+        "fan",
+        "bib"
+      ]
+    }
+  ]
+}

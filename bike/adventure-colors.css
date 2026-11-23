@@ -1,0 +1,11 @@
+:root{--teal:#275c9d;--edge:#275c9d66;--cup-gold:#ee926b;--cup-ink:#275c9d;background:#edf5ff;color:#275c9d}
+body{background-image:linear-gradient(#edf5ffed,#edf5fff2),var(--stadium-art)}
+.brand,.brand span,.welcome h1,.assessment-header h1,.complete h1,.directions{color:#275c9d}.brand strong{color:#ee926b}
+.cup-label{background:#275c9d;border-color:#ee926b}.tabs button[aria-current=step]{background:#275c9d;border-color:#275c9d;box-shadow:inset 0 -4px #ee926b}
+.launch-actions button{background:#275c9d;border-color:#275c9d}.activity:before{background:linear-gradient(90deg,#ee926b,#275c9d,#8bc2d0,#ee926b)}.tile{border-color:#ee926b}
+.quiet,.pad,.phonics-pad{border-color:#275c9d77}.adventure-scene{background-image:linear-gradient(#edf5ff90,#edf5ff55),var(--scene-art)}.scene-rain{background-image:linear-gradient(#8aa6b3aa,#edf5ff66),var(--scene-art)}
+.hub-link{display:grid;place-items:center;flex:none;min-height:36px;padding:6px 9px;border:1px solid #275c9d66;border-radius:10px;background:#fffef9;color:#275c9d;font-size:14px;text-decoration:none;font-weight:700;white-space:nowrap}.hub-link:focus-visible{outline:3px solid #ee926b;outline-offset:2px}
+.complete-heading h1{padding-bottom:5px}
+@media screen and (min-width:1051px) and (max-width:1450px) and (min-height:701px) and (max-height:800px){.cloze-task .bank-wrap{padding:6px 10px}.cloze-task .word-bank{min-height:42px}.cloze-sentence{font-size:min(var(--reading),20px);line-height:1.15}.cloze-line .pad{height:40px}.cloze-line .pad .tile{min-height:34px}}
+@media(max-width:850px){.hub-link{font-size:12px;min-height:33px;padding:5px 7px}.topbar{gap:7px}.brand{font-size:18px}}
+@media print{.hub-link{display:none!important}}

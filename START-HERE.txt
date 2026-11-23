@@ -1,0 +1,15 @@
+VERIFIED FIVE-ACTIVITY DELIVERY — NOVEMBER 23, 2026
+
+START: Open index.html at this folder's root. Choose Soccer / World Cup, Summer Camp, Scuba, City Bike Ride, or Nature Conservation Area Visit. Each themed folder also has its own index.html.
+
+DEPLOY: Upload this whole uncompressed folder. Keep all subfolders and relative paths. The publish directory is '.' and there is no build step. All pictures, slow voice recordings, fonts and PDF support are local. No ZIP, online account or API key is required.
+
+STRUCTURE: Four parts and eighteen activity screens per theme, two CVC word sets, beginning consonants/vowels/blends, three ten-picture matching pages, three illustrated diagram scenes plus a rainy view, nine-object sharing and multiplication, two truck-loading models with 1/5/10/100 boxes, two picture-sentence pages, and three specific listening-cloze pages. Twenty picture IDs per theme.
+
+TEACHER PREVIEW: Use PIN 259. Preview is separate from student work. Each picture ID, word set and adventure has separate local progress. Word listening accepts three immediate taps. Cloze narration starts only when its headphones are clicked, reads that one sentence once, then stops. Page changes stop audio.
+
+ART: For the four new themes, 192 original illustrations were generated with built-in image_gen, including forty learning pictures per theme. Exact prompts and source/saved paths are in each activity's Artwork-Prompts.txt. Full-resolution original PNGs are preserved separately in output/Word-Adventures-Illustrations-Nov22.
+
+VALIDATION: For the four new themes, all eight theme/set cases passed functional checks at123/123, including dragging, returning/swapping tiles, touch/keyboard support, saved work and preview isolation. Laptop/Chromebook/tablet portrait and landscape layouts were checked at normal and largest text sizes;12,336 measured layout states with no unresolved defects. All picture references load. All604 WAVs are supplied. Real browser decoding/playback verified Slow0.8, one selected cloze then stop and page-change cancellation in every theme. All168 activity print views fit one page. Eight exported full reports each contain ten pages; rendered report and representative activity pages were visually reviewed.
+
+Soccer is included in the soccer subfolder with an Adventures return link. The separately saved original soccer project remains unchanged.

@@ -1,0 +1,1 @@
+window.CVC_THEME={"id":"camp","title":"Summer Camp","shortTitle":"Camp Words","wordTopic":"camp","unit":{"singular":"mug","plural":"mugs","shortPlural":"mugs","role":"camper","rewardPhrase":"a camp mug","pictureWord":"mug"},"palette":{"primary":"#28633F","accent":"#D48B32","background":"#F2F5E8"}};

@@ -1,0 +1,66 @@
+TEACHER GUIDE — WORLD CUP WORDS
+
+Teacher audit/preview PIN: 259. Preview is separate from saved student work.
+The landing page uses a picture-only ID picker with 20 choices. Each picture/word-set combination has its own saved record; there is no typed name/code field.
+Use A− / A+ for supported text sizes 18, 20, 22 and 24. Voice directions are optional. Slow .8 is the default; Extra slow .6 and Steady 1 are available. Recorded voice rate is -4. Phonemes are separated by 1.2-second pauses and normalized so quiet sounds remain audible.
+
+PAGE CODES (zero-based internal route)
+0 CVC-LISTEN-WORDS: 10 words; 3 immediate taps each, no time gate. Full audio completions are counted separately.
+1 CVC-PART1-FIRST: 6 beginning letters.
+2 CVC-PART1-INITIAL-CONSONANTS: 6 beginning consonants.
+3 CVC-PART1-VOWELS: all 5 short vowels.
+4 CVC-PART1-LAST: 6 ending letters.
+5 CVC-PART1-BLENDS: flag, club, grass, press, trap, skip.
+6 CVC-PART1-BLENDS2: drum, clap, spin, step, sniff, grip.
+7 CVC-MATCH-10: 10 CVC pictures from the selected set.
+8 CVC-MATCH-BLENDS-1: 10 beginning-blend words.
+9 CVC-MATCH-BLENDS-2: 10 more beginning-blend words.
+10 CVC-SOCCER-SCENES: 8 labels each at the stadium, team airport and big boat; weather control for the stadium.
+11 CVC-SOCCER-SHARING: conserve 9 balls, 3 players, 9 ÷ 3 and 3 × 3.
+12 CVC-SOCCER-TRUCKS: reusable 1/5/10/100-ball boxes; targets 28 and 127; exact loads honk/light up.
+13 CVC-LISTEN-SENTENCES: 10 specific CVC soccer clues.
+14 CVC-LISTEN-INITIAL-SENTENCES: 10 extra soccer clues with pictures.
+15 CVC-LISTEN-CLOZE: 10 CVC sentence gaps.
+16 CVC-CLOZE-BLENDS-1: 10 blend gaps.
+17 CVC-CLOZE-BLENDS-2: 10 more blend gaps.
+18 Full assessment report.
+
+READING TARGETS
+Soccer practice: net, cup, kit, cap, fan, bag, bib, pad, jet, hit.
+Stadium day: van, sit, run, hop, tap, leg, mud, rag, zip, dog.
+Blends 1: flag, club, grass, press, drip, drum, trap, skip, clap, spin.
+Blends 2: step, grip, stop, drop, spot, sniff, skid, trip, grin, trim.
+Only the target words are restricted to CVC or short initial-consonant blends. Sentence support words add the detail needed to distinguish one answer in each bank. Sports-Sentence-Audit.md explains every clue.
+
+CONSOLIDATED READING MODEL
+Adapted the initialBlendPage matching model in outputs/First-Dive-Deployment/content.js (initialBlendDirection, blendBoard and missing first-two-letter tiles), and the first-two-letter sentence-building pattern in output/Adventures-Deployment-Nov-8/Word-and-Reading-Skills/Blend-Master/data.js. Both blend-building pages are part of Words & sounds. There is no separate games section.
+
+INTERACTION AND FEEDBACK
+Drag words or letter tiles onto their visible landing pads. The actual tiles stay on the pads, can move again, and return to the bank. Keyboard/tap uses the same pads. Wrong answers are retained for review; the cloze checkmark appears only on an exact correct placement and disappears if the tile moves away. Reduced motion shows the final check without spinning.
+The 3-view scene includes flags, a balloon above the field, a TV crew, soccer parachute, The Big Bear mascot, soccer-ball bottle bowling, and the dog chasing a soccer ball. Other pictures show warm-ups, dog tricks, the rainy day, team picture, airport and soccer on a boat. The supplied skipping-rope artwork is retained as explicitly approved.
+Sharing dropdowns cannot allocate more than the remaining pool plus that player's current allocation. All 9 balls remain visible in the pool or beside players. Correct division requires equal groups of 3 and answer 3. Multiplication answer is 9.
+Truck boxes show capacity on their front side. Same-capacity boxes form counted stacks to keep any supported load on one screen. Each drag/remove moves one actual box. A truck lights while its load is exact; honks only when changing to the exact load, not when reopening the screen. The report records every box move and final quantity.
+
+SCORING AND SAVING
+Maximum 123 = core20 + sounds35 + blends40 + scene24 + maths2 + trucks2. Extra listening pages and replay counts are reported separately. Listening taps count immediately; full recordings count only on completion. Letter practice and maths require correct completion before locking. Matching/cloze/scene pages retain submitted placements as assessment evidence. Cloze additionally requires hearing each full clue.
+Save full report PDF exports 10 pages: core, letters/vowels/endings, blend matching/cloze, initial consonants/extra clues, both blend-building pages, three diagram pages, sharing and trucks.
+Work saves in this browser's local storage by picture ID and set. Older generic curriculum records are retained under their prior keys; a colliding older record is archived before the soccer curriculum starts. Moving the folder, changing browser/origin, or clearing site data creates a different storage context. Save a report for a lasting teacher copy.
+
+DELIVERY
+Use CVC-Listening-Nov19-Deployment/index.html or the self-contained CVC-Listening-Nov19.html. Upload the uncompressed deployment folder with index.html at its root. No ZIP.
+
+VOICE UPDATE — NOVEMBER 21
+Each word is spoken once per requested play. Sound buttons say the word once, then its separated sounds once, with no spoken preamble or repeated final word. Placement praise/prompts are visual only. Repeated taps during one recording count immediately without restarting or queuing it. Replay is available after the recording ends. Each cloze headphone reads only its own sentence once; there is no automatic passage playback.
+
+PICTURE BUTTONS AND STAGGERED BOXES — NOVEMBER 21
+Every sentence button on both listening pages has a matching descriptive soccer illustration. Selecting a sentence enlarges its button and picture within the activity while the sentence is read once. Playback completion, Stop, an audio error, or navigation returns it to the normal grid; voice directions and Stop remain visible.
+Loaded boxes are visibly offset in staggered stacks. Up to ten actual box pictures are shown in each stack, with the full count badge retained for larger loads. Dragging moves one box at a time, shown as one box under the pointer. Quantities, capacities, totals and saved work are retained.
+
+SHORTER LETTER DRAGS — NOVEMBER 22
+On all six letter/vowel/blend pages in both word sets, the draggable tray sits beneath the pictured word gaps. Keyboard and tap placement use the same pads, and placed tiles can still be moved or returned to the lower tray.
+
+FIVE-BALL BOX — NOVEMBER 22
+A reusable 5-ball box joins the 1-, 10- and 100-ball boxes. Fives are included in staggered stacks, one-box moving/removal, the live total calculation, saved loads, success feedback and the report/PDF. Truck targets are still 28 and 127.
+
+CLOZE HEADPHONES ONLY — NOVEMBER 22
+Each cloze sentence plays once only when its own headphones are selected, then stops. There is no passage button or automatic next sentence. Dragging, selecting answers, and changing pages do not start narration. Tap the same headphones again for an explicit replay.

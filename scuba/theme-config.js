@@ -1,0 +1,1 @@
+window.CVC_THEME={"id":"scuba","title":"Scuba","shortTitle":"Scuba Words","wordTopic":"scuba","unit":{"singular":"dive mask","plural":"dive masks","shortPlural":"masks","role":"diver","rewardPhrase":"a dive mask","newAsset":"mask"},"palette":{"primary":"#116D8B","accent":"#EFB254","background":"#E5F5F7"}};

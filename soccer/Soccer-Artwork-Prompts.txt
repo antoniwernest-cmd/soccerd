@@ -1,0 +1,29 @@
+World Cup Words - Original Soccer Artwork
+Mode: built-in image_gen; one request per asset.
+Full-resolution originals: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\CVC-Soccer-Illustrations-Nov20
+Activity assets: assets/theme/*.webp
+
+players
+Create a premium rounded 3D animated family-film illustration for a cheerful early-reader soccer / world cup classroom activity. A friendly Black girl about 8 years old with curly hair tied back in a ponytail, wearing an emerald green soccer kit with gold trim, and a friendly East Asian boy about 8 with short dark hair, wearing a golden yellow soccer kit with green trim, celebrate together beside a large classic black-and-white soccer ball. The girl has one foot gently resting on the ball and the boy gives a thumbs-up. Full bodies, soccer socks and cleats visible, cute expressive kind faces, age-appropriate athletic outfits. Include a small simple goal behind them, a compact grassy turf island underneath, a few gold star confetti shapes nearby; cohesive single composition with the players large and dominant. Wide landscape composition, centered with comfortable margin, entire scene inside frame. Bright natural colors, soft studio lighting, tactile materials, polished classroom 3D picture quality. Transparent real-alpha background around the composition, no surrounding stadium or background. No letters, writing, numbers, team logos, advertising, trademarks, or watermark.
+Saved: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\CVC-Soccer-Illustrations-Nov20\players-v1.png
+Activity: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\CVC-Listening-Nov19\assets\theme\players-v1.webp
+
+stadium
+Draw a wide panoramic soccer world-cup celebration stadium background for a children's reading activity. Premium rounded 3D family-animation style, calm friendly sunny atmosphere. Fresh green striped soccer pitch in the lower half with crisp white center circle and touchlines, an empty little goal at far end, curved spectator stands with tiny abstract multicolor dots, a row of small colorful plain pennant flags around the stadium rim, soft blue sky and fluffy white clouds above, gentle golden afternoon lighting. Symmetrical wide view from the sideline, soft low-detail background so it does not compete with UI panels on top. No people or large foreground objects. Rich emerald green, pale mint, white and restrained warm gold. No text, numbers, real country flags, team logos, FIFA marks, brand names, advertising, watermarks or lettering.
+Saved: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\CVC-Soccer-Illustrations-Nov20\stadium-v1.png
+Activity: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\CVC-Listening-Nov19\assets\theme\stadium-v1.webp
+
+trophy
+Create one original friendly golden soccer championship trophy for a children's world cup reading activity. Rounded premium 3D animated-film illustration, a polished gold cup with two curved handles, a small classic black-and-white soccer ball resting at the top opening, a short stem, emerald-green circular base, tasteful little gold star medallion on the cup front. A generic original cup shape, not the FIFA World Cup sculpture. Three-quarter view, centered, fully visible with margin, soft studio lighting, gold and emerald materials, simple recognizable silhouette, no face. Transparent background with real alpha, no ground shadow, no scene. No text, letters, numbers, logos, marks or watermark.
+Saved: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\CVC-Soccer-Illustrations-Nov20\trophy-v1.png
+Activity: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\CVC-Listening-Nov19\assets\theme\trophy-v1.webp
+
+ball
+Create one classic black-and-white soccer football, isolated and centered, fully visible with margin, recognizable pentagon-and-hexagon panels with softly rounded seams. Premium playful 3D animated family-film classroom illustration, tactile leather texture, soft studio highlights, clean high-contrast shape readable as a tiny button or reward icon. One ball only, no face, no motion lines, no floor, no shadow outside the object. Transparent background with real alpha. No text, numbers, branding, symbols, letters or watermark.
+Saved: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\CVC-Soccer-Illustrations-Nov20\ball-v1.png
+Activity: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\CVC-Listening-Nov19\assets\theme\ball-v1.webp
+
+headphones
+Create one pair of friendly soccer-themed over-ear headphones as an isolated classroom listen-button icon. Premium rounded 3D animated family-film illustration, thick cushioned emerald-green headband with a golden yellow inset stripe, chunky soft emerald ear cushions with warm gold outer shells, a tiny simple black-and-white soccer ball medallion on the visible ear shell. Front three-quarter angle, both ear cups and arch clearly visible, comfortable and cheerful, no person or face. Centered and fully within the frame with margin, strong recognizable silhouette readable at 32 pixels, bright soft studio lighting and glossy tactile materials. Transparent background with real alpha, no floor, no shadow outside the object. No writing, letters, numbers, logos, brands or watermark.
+Saved: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\CVC-Soccer-Illustrations-Nov20\headphones-v1.png
+Activity: C:\Users\anton\OneDrive\Documents\ChatGPT\Scuba Dec 5\output\CVC-Listening-Nov19\assets\theme\headphones-v1.webp

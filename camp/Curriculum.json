@@ -1,0 +1,577 @@
+{
+  "id": "camp",
+  "title": "Summer Camp",
+  "shortTitle": "Camp Words",
+  "wordTopic": "camp",
+  "setNames": [
+    "Campsite",
+    "Cabin and lake"
+  ],
+  "unit": {
+    "singular": "mug",
+    "plural": "mugs",
+    "shortPlural": "mugs",
+    "role": "camper",
+    "rewardPhrase": "a camp mug",
+    "pictureWord": "mug"
+  },
+  "palette": {
+    "primary": "#28633F",
+    "accent": "#D48B32",
+    "background": "#F2F5E8"
+  },
+  "core": [
+    {
+      "id": "set1",
+      "name": "Campsite",
+      "words": [
+        {
+          "id": "hut",
+          "clue": "The small wooden shelter with a roof is a ___.",
+          "reason": "Only hut names the roofed wooden shelter.",
+          "pictureSubject": "One small cosy wooden camp hut with a clear roof, open doorway and tiny grass base; no people or loose equipment."
+        },
+        {
+          "id": "log",
+          "clue": "A cut piece of tree trunk is a ___.",
+          "reason": "A solid cut trunk, unlike a thin twig or a building.",
+          "pictureSubject": "One thick cut tree log with bark and visible growth rings on its round end, lying on a small woodland patch."
+        },
+        {
+          "id": "bug",
+          "clue": "The tiny six-legged insect is a ___.",
+          "reason": "The only insect noun in this bank.",
+          "pictureSubject": "One friendly small green six-legged beetle-like bug with two antennae on a small leaf; no other animals."
+        },
+        {
+          "id": "mug",
+          "clue": "A small handled drinking vessel is a ___.",
+          "reason": "Small drinking vessel with a handle; pot is deep cooking equipment.",
+          "pictureSubject": "One warm orange camp drinking mug with one large handle, upright, simple blank surface and no writing; no other containers."
+        },
+        {
+          "id": "map",
+          "clue": "The paper plan of the camp paths is a ___.",
+          "reason": "The paper route plan, unlike equipment.",
+          "pictureSubject": "One unfolded paper camp map showing a simple winding trail, lake shapes and a compass arrow, with no lettering or numbers."
+        },
+        {
+          "id": "cap",
+          "clue": "The headwear with a brim is a ___.",
+          "reason": "Only cap is headwear.",
+          "pictureSubject": "One forest-green outdoor cap with a clearly projecting brim, no emblem, on a tiny neutral ground patch."
+        },
+        {
+          "id": "bag",
+          "clue": "The zipped container for camp clothes is a ___.",
+          "reason": "A zipped luggage container rather than a cooking/drinking vessel.",
+          "pictureSubject": "One zipped blue camp duffel bag with handles and a shoulder strap, empty outside, no other target objects around it."
+        },
+        {
+          "id": "net",
+          "clue": "The insect catcher made of mesh is a ___.",
+          "reason": "Only net has mesh for catching insects.",
+          "pictureSubject": "One butterfly-style camp study net with a long wooden handle and open pale mesh hoop; no insects inside."
+        },
+        {
+          "id": "pot",
+          "clue": "Soup cooks in the deep two-handled ___.",
+          "reason": "Deep cooking vessel with two side handles; pan is shallow.",
+          "pictureSubject": "One deep silver camp cooking pot with two short side handles and a lid tilted beside its rim; no food or flame."
+        },
+        {
+          "id": "pan",
+          "clue": "The shallow fryer with a long handle is a ___.",
+          "reason": "Shallow frying vessel with one long handle, unlike pot or mug.",
+          "pictureSubject": "One shallow black camp frying pan with one long handle, shown from above at a slight angle; no food or other utensils."
+        }
+      ]
+    },
+    {
+      "id": "set2",
+      "name": "Cabin and lake",
+      "words": [
+        {
+          "id": "peg",
+          "clue": "A tent rope hooks onto a ground ___.",
+          "reason": "A ground stake, not a fishing rod or a fastener zip.",
+          "pictureSubject": "One short wooden tent peg pushed partly into grass, with one taut tent cord hooked to it; no complete tent."
+        },
+        {
+          "id": "bed",
+          "clue": "A pillow and blanket rest on this ___.",
+          "reason": "Only bed is furniture for sleeping.",
+          "pictureSubject": "One child-sized wooden cabin bed with a pillow and folded green blanket, whole bed visible, no person."
+        },
+        {
+          "id": "cup",
+          "clue": "The small handleless drinking vessel is a ___.",
+          "reason": "Handleless drinking vessel; jug has a large handle and pouring spout.",
+          "pictureSubject": "One small turquoise handleless camp drinking cup, upright with its open rim visible, no other containers."
+        },
+        {
+          "id": "bin",
+          "clue": "Put camp rubbish into the large lidded ___.",
+          "reason": "Large rubbish container, not a drinking vessel.",
+          "pictureSubject": "One large green camp rubbish bin with a hinged lid slightly open, plain blank sides, no written labels."
+        },
+        {
+          "id": "mat",
+          "clue": "Wipe your boots on the flat ___.",
+          "reason": "A boot-wiping floor pad, unlike bed furniture.",
+          "pictureSubject": "One flat rectangular coir cabin doormat with a simple border on a small wooden floor patch; no writing or boots."
+        },
+        {
+          "id": "rod",
+          "clue": "The long fishing pole is a ___.",
+          "reason": "A complete fishing pole, unlike the short tent peg.",
+          "pictureSubject": "One simple fishing rod with a reel and visible thin line, shown diagonally, no fish or people."
+        },
+        {
+          "id": "jam",
+          "clue": "The sticky fruit spread in the jar is ___.",
+          "reason": "Only jam is a sticky food spread.",
+          "pictureSubject": "One clear jar of bright berry jam with a spoon lifting a small sticky blob; blank lid and no label."
+        },
+        {
+          "id": "jug",
+          "clue": "Pour water from the large spouted ___.",
+          "reason": "Large pouring vessel with a spout and handle, unlike handleless cup.",
+          "pictureSubject": "One large cream camp water jug with a clear pouring spout and handle, a small blue water reflection at its open rim."
+        },
+        {
+          "id": "dog",
+          "clue": "The camp pet that barks is a ___.",
+          "reason": "Only dog is a barking animal.",
+          "pictureSubject": "One cheerful brown-and-white camp dog sitting with a simple collar and loose lead, whole body visible, no ball."
+        },
+        {
+          "id": "zip",
+          "clue": "Two rows of teeth close the bag with a ___.",
+          "reason": "The toothed fastener, rather than a container or ground stake.",
+          "pictureSubject": "Close-up of a large orange bag zipper with two visible rows of interlocking teeth and a central pull tab; only a small fabric panel shown."
+        }
+      ]
+    }
+  ],
+  "blendTargets": [
+    [
+      "flag",
+      "clap",
+      "drum",
+      "frog",
+      "grub",
+      "twig",
+      "spin",
+      "step",
+      "skip",
+      "swim"
+    ],
+    [
+      "plug",
+      "flat",
+      "spot",
+      "grip",
+      "drop",
+      "drip",
+      "clip",
+      "brim",
+      "slug",
+      "snap"
+    ]
+  ],
+  "blendClues": {
+    "set1": [
+      [
+        "The cloth camp signal on a pole is a ___.",
+        "Bring your palms together to applaud: ___.",
+        "Beat the round camp instrument: a ___.",
+        "The pond animal with long back legs is a ___.",
+        "The pale, curled insect larva is a ___.",
+        "A thin little tree branch is a ___.",
+        "Turn round in one place: ___.",
+        "One stair into the cabin is a ___.",
+        "Jump over a turning warm-up rope: ___.",
+        "Move through lake water with strokes: ___."
+      ],
+      [
+        "The rubber drain stopper is a ___.",
+        "A smooth mat with no folds lies ___.",
+        "One round mark on the stone is a ___.",
+        "A firm hand hold on the paddle is a ___.",
+        "Let the pine cone fall: ___ it.",
+        "Water falls from the tap drop by drop: ___.",
+        "The small metal pinch fastener is a ___.",
+        "The cap part that shades your eyes is its ___.",
+        "The soft crawler with no shell is a ___.",
+        "Break a dry stick with a quick crack: ___ it."
+      ]
+    ],
+    "set2": [
+      [
+        "The camp pole carries a cloth ___.",
+        "To applaud with your hands, ___.",
+        "The round instrument uses two sticks: a ___.",
+        "The green pond jumper is a ___.",
+        "A curled, pale beetle larva is a ___.",
+        "The narrow woody branch is a ___.",
+        "To turn around on the spot, ___.",
+        "Each single cabin stair is a ___.",
+        "To jump a turning rope at camp, ___.",
+        "Use arm and leg strokes in the lake: ___."
+      ],
+      [
+        "Close the basin drain with a rubber ___.",
+        "Without a wrinkle or fold, the mat is ___.",
+        "The round dot on the pebble is a ___.",
+        "Your firm hold on the paddle is a ___.",
+        "Release the pine cone so it falls: ___ it.",
+        "To fall in small drops from the tap is to ___.",
+        "Pinch papers together with the metal ___.",
+        "A cap shades your eyes with its ___.",
+        "The shell-free garden crawler is a ___.",
+        "Crack the dry stick into two pieces: ___ it."
+      ]
+    ]
+  },
+  "blendPictures": {
+    "flag": "One blank orange-and-green camp flag on a short wooden pole, entire cloth triangle and pole visible on a grass patch.",
+    "clap": "Close-up of two child hands meeting in a clear clapping action, a little green camp sleeve visible, curved motion accents and no words.",
+    "drum": "One round wooden camp drum with a pale stretched skin and two short wooden drumsticks resting across the rim; no emblems.",
+    "frog": "One bright green pond frog with long folded back legs and round eyes, sitting on a small wet stone.",
+    "grub": "One pale cream C-shaped beetle grub with a small brown head, curled on a tiny soil patch; clearly different from a long slug.",
+    "twig": "One thin forked brown tree twig with a few tiny buds, entire slender branch visible, no log or leaves around it.",
+    "spin": "One cheerful fully clothed camper turning round in place with arms out, a clear curved motion arrow around their feet on a grass patch.",
+    "step": "One single wooden step leading up to the lower edge of a camp cabin doorway, step dominates the compact picture.",
+    "skip": "One cheerful camper holding both handles of a turning skipping rope and jumping over it on a small grass patch, full body and rope visible.",
+    "swim": "One cheerful camper swimming with a buoyancy vest in calm lake water, arms making a clear swimming stroke, a small distant adult lifeguard cue.",
+    "plug": "One dark rubber washbasin drain plug with a loop handle and short chain, shown beside a small circular drain rim, no writing.",
+    "flat": "One unfolded camp mat lying completely smooth and level on a small floor patch, low side view showing it has no wrinkles or folds.",
+    "spot": "One pale pebble with exactly one prominent round dark spot on its front face, close-up and no other marks.",
+    "grip": "Close-up of a child hand firmly wrapped around a wooden canoe paddle shaft, fingers visibly holding tightly, no whole boat.",
+    "drop": "One child hand releasing a pine cone above an open empty camp basket, cone clearly falling with short downward motion accents.",
+    "drip": "One camp wash tap with three separate water droplets falling slowly from its spout into a little basin edge, no people.",
+    "clip": "One large silver spring clip with two pinch handles, holding two blank camp papers; the small metal fastener is the dominant subject.",
+    "brim": "Close-up of the projecting front brim of a green outdoor cap, simple curved highlight pointing to the brim, no lettering.",
+    "slug": "One long brown shell-free garden slug with two antennae and a tiny glistening trail, whole body visible on a small leaf.",
+    "snap": "Two child hands snapping a small dry fallen stick into two pieces, a clean split and short crack motion accents, no injuries."
+  },
+  "phonics": {
+    "first1": [
+      "bag",
+      "cap",
+      "hut",
+      "log",
+      "map",
+      "net"
+    ],
+    "first2": [
+      "bed",
+      "cup",
+      "dog",
+      "jam",
+      "mat",
+      "rod"
+    ],
+    "initial": [
+      "bag",
+      "cap",
+      "log",
+      "net",
+      "pot",
+      "zip"
+    ],
+    "vowels": [
+      "map",
+      "net",
+      "zip",
+      "log",
+      "mug"
+    ],
+    "last": [
+      "bag",
+      "cap",
+      "hut",
+      "pan",
+      "bed",
+      "jam"
+    ],
+    "blends": [
+      "flag",
+      "clap",
+      "drum",
+      "frog",
+      "grub",
+      "twig"
+    ],
+    "blends2": [
+      "plug",
+      "spot",
+      "skip",
+      "brim",
+      "step",
+      "clip"
+    ]
+  },
+  "initialIds": [
+    "bag",
+    "cap",
+    "log",
+    "net",
+    "pot",
+    "zip",
+    "mug",
+    "peg",
+    "dog",
+    "bed"
+  ],
+  "initialClues": {
+    "set1": [
+      "Pack camp clothes in the zipped ___.",
+      "The headwear with a brim is a ___.",
+      "A cut piece of tree trunk is a ___.",
+      "The insect catcher has mesh: a ___.",
+      "Soup cooks in the deep two-handled ___.",
+      "Close two rows of bag teeth with a ___.",
+      "Drink from the small handled ___.",
+      "Hold the tent rope with a ground ___.",
+      "The barking camp pet is a ___.",
+      "The pillow and blanket lie on a ___."
+    ],
+    "set2": [
+      "Carry your camp clothes in a ___.",
+      "Wear the brimmed ___.",
+      "The thick cut trunk is a ___.",
+      "Catch an insect in the mesh ___.",
+      "The deep soup cooker is a ___.",
+      "The bag fastener with teeth is a ___.",
+      "The small handled drink vessel is a ___.",
+      "A tent cord hooks onto this ground ___.",
+      "The camp animal that barks is a ___.",
+      "Sleep on the cabin ___."
+    ]
+  },
+  "sounds": {
+    "hut": [
+      "h",
+      "ʌ",
+      "t"
+    ],
+    "log": [
+      "l",
+      "ɑ",
+      "ɡ"
+    ],
+    "bug": [
+      "b",
+      "ʌ",
+      "ɡ"
+    ],
+    "mug": [
+      "m",
+      "ʌ",
+      "ɡ"
+    ],
+    "map": [
+      "m",
+      "æ",
+      "p"
+    ],
+    "cap": [
+      "k",
+      "æ",
+      "p"
+    ],
+    "bag": [
+      "b",
+      "æ",
+      "ɡ"
+    ],
+    "net": [
+      "n",
+      "ɛ",
+      "t"
+    ],
+    "pot": [
+      "p",
+      "ɑ",
+      "t"
+    ],
+    "pan": [
+      "p",
+      "æ",
+      "n"
+    ],
+    "peg": [
+      "p",
+      "ɛ",
+      "ɡ"
+    ],
+    "bed": [
+      "b",
+      "ɛ",
+      "d"
+    ],
+    "cup": [
+      "k",
+      "ʌ",
+      "p"
+    ],
+    "bin": [
+      "b",
+      "ɪ",
+      "n"
+    ],
+    "mat": [
+      "m",
+      "æ",
+      "t"
+    ],
+    "rod": [
+      "ɹ",
+      "ɑ",
+      "d"
+    ],
+    "jam": [
+      "dʒ",
+      "æ",
+      "m"
+    ],
+    "jug": [
+      "dʒ",
+      "ʌ",
+      "ɡ"
+    ],
+    "dog": [
+      "d",
+      "ɑ",
+      "ɡ"
+    ],
+    "zip": [
+      "z",
+      "ɪ",
+      "p"
+    ],
+    "flag": [
+      "f",
+      "l",
+      "æ",
+      "ɡ"
+    ],
+    "clap": [
+      "k",
+      "l",
+      "æ",
+      "p"
+    ],
+    "drum": [
+      "d",
+      "ɹ",
+      "ʌ",
+      "m"
+    ],
+    "frog": [
+      "f",
+      "ɹ",
+      "ɑ",
+      "ɡ"
+    ],
+    "grub": [
+      "ɡ",
+      "ɹ",
+      "ʌ",
+      "b"
+    ],
+    "twig": [
+      "t",
+      "w",
+      "ɪ",
+      "ɡ"
+    ],
+    "plug": [
+      "p",
+      "l",
+      "ʌ",
+      "ɡ"
+    ],
+    "spot": [
+      "s",
+      "p",
+      "ɑ",
+      "t"
+    ],
+    "skip": [
+      "s",
+      "k",
+      "ɪ",
+      "p"
+    ],
+    "brim": [
+      "b",
+      "ɹ",
+      "ɪ",
+      "m"
+    ],
+    "step": [
+      "s",
+      "t",
+      "ɛ",
+      "p"
+    ],
+    "clip": [
+      "k",
+      "l",
+      "ɪ",
+      "p"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "scene1",
+      "title": "Campsite",
+      "words": [
+        "hut",
+        "bag",
+        "cap",
+        "map",
+        "net",
+        "pan",
+        "mug",
+        "log"
+      ],
+      "sceneSubject": "A cheerful summer campsite beside a forest lake, cosy wooden hut, green canvas tents, simple picnic space and clear walking paths, diverse campers and an adult counsellor in the middle distance; no lettering."
+    },
+    {
+      "id": "scene2",
+      "title": "Lakeside",
+      "words": [
+        "rod",
+        "net",
+        "frog",
+        "log",
+        "bug",
+        "twig",
+        "cup",
+        "mat"
+      ],
+      "sceneSubject": "A peaceful shallow lakeside study area at summer camp, reed beds, small wooden jetty, smooth stones and a canoe on shore, campers with an adult guide looking at pond life; no written signs."
+    },
+    {
+      "id": "scene3",
+      "title": "Cabin",
+      "words": [
+        "bed",
+        "peg",
+        "pot",
+        "jug",
+        "jam",
+        "bin",
+        "dog",
+        "zip"
+      ],
+      "sceneSubject": "A bright welcoming camp cabin with simple wooden beds, neat storage hooks, a camp kitchenette and a porch opening toward pine trees, a quiet friendly camp dog by the doorway; no words or labels."
+    }
+  ],
+  "coverSubject": "Five diverse cheerful children at summer camp with a friendly adult counsellor, green tents and a cosy wooden hut beside a calm lake and pine woods, small camp craft and canoe details, warm sunshine, lively close foreground composition with the group large and welcoming; no writing or logos.",
+  "rainSubject": "The same welcoming summer campsite in gentle rain, children in bright raincoats beside an adult counsellor under the wooden hut porch, wet paths, visible raindrops and soft grey clouds, cosy rather than frightening, no lightning, no writing."
+}
